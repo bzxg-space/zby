@@ -399,6 +399,30 @@ http://tx2play1.douyucdn.cn/248753rBsY1KApnP.m3u8
 http://tx2play1.douyucdn.cn/96577rqs4lVjxdb1.m3u8
 #EXTINF:-1 group-title="轮播",【花卷】60帧豆瓣高分电影
 http://tx2play1.douyucdn.cn/52787rzPyT6RAFAo.m3u8
+#EXTINF:-1 group-title="明星电影",周星驰电影
+http://121.12.115.14/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="明星电影",林正英电影
+http://121.12.115.14/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="明星电影",成龙电影
+http://121.12.115.14/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="明星电影",冯小刚电影
+http://121.12.115.14/tx.hls.huya.com/src/1423782077-1423782077-6115097457345953792-2847687610-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="明星电影",李连杰电影
+http://121.12.115.14/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="明星电影",周润发电影
+http://121.12.115.14/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="明星电影",刘德华电影
+http://121.12.115.14/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="明星电影",甄子丹电影
+http://121.12.115.14/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="明星电影",任达华电影
+http://121.12.115.14/tx.hls.huya.com/src/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="明星电影",吴京电影
+http://121.12.115.14/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="明星电影",洪金宝电影
+http://121.12.115.14/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="明星电影",徐峥电影
+http://121.12.115.14/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
 #EXTINF:-1 group-title="爱TV",爱江湖
 http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="爱TV",爱军武

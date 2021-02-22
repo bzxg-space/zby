@@ -349,8 +349,6 @@ http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SL
 http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="影视",精彩电影4K
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
-#EXTINF:-1 group-title="影视",东方影视FHD
-http://140.207.241.2:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="轮播",NewTV-东北热剧
 http://39.135.135.35:80/wh7f454c46tw1751026922_1159821621/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1554599523&from=1&hms_devid=691
 #EXTINF:-1 group-title="轮播",NewTV-欢乐剧场
@@ -359,38 +357,24 @@ http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 #EXTINF:-1 group-title="轮播",MTV音乐
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-#EXTINF:-1 group-title="轮播",【陈翔六点半】咻咻咻~6点半加速！
-http://tx2play1.douyucdn.cn/2132902rOl0PlgKw.m3u8
 #EXTINF:-1 group-title="轮播",【周星驰】星爷 华语 经典 电影 神乐
 http://tx2play1.douyucdn.cn/122402rK7MO9bXSq.m3u8
 #EXTINF:-1 group-title="轮播",【周星驰】星爷 华语 经典 电影 神乐
 http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 #EXTINF:-1 group-title="轮播",【林正英】僵尸 女鬼 弹幕 护体
-http://tx2play1.douyucdn.cn/218859rbAde6uLrr.m3u8
-#EXTINF:-1 group-title="轮播",【林正英】全网最清晰林正英
-http://tx2play1.douyucdn.cn/7356023r30EXwuoL.m3u8
+http://tx2play1.douyucdn.cn/218859rw7EInzeqo.m3u8
 #EXTINF:-1 group-title="轮播",【神乐】华语 经典 电影 刘德华 周星驰
 http://tx2play1.douyucdn.cn/85894rmovieChow.m3u8
 #EXTINF:-1 group-title="轮播",【神乐】华语 经典 电影 刘德华 周星驰
 http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
 #EXTINF:-1 group-title="轮播",【电影可乐】 欧美 电影 科幻 经典 动作
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
-#EXTINF:-1 group-title="轮播",【贝爷影厅】经典 科幻 动作 灾难 巨兽
-http://tx2play1.douyucdn.cn/252802rbQGaZXUQi.m3u8
-#EXTINF:-1 group-title="轮播",【贝爷影厅】经典 科幻 动作 灾难 巨兽
-http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv
-#EXTINF:-1 group-title="轮播",【s1134】经典 科幻 动作 灾难
-http://tx2play1.douyucdn.cn/248753rsLx79oMhp.m3u8
 #EXTINF:-1 group-title="轮播",【香港赌片】喜剧、黑帮、动作、武侠、经典
 http://tx2play1.douyucdn.cn/315457rkHZoBCIGx.m3u8
-#EXTINF:-1 group-title="轮播",【小U】丧尸 鬼片 恐怖 惊悚 电影
-http://tx2play1.douyucdn.cn/96577rxiBYuYSPDh.m3u8
-#EXTINF:-1 group-title="轮播",【花卷陪看】60帧 豆瓣高分电影
-http://tx2play1.douyucdn.cn/52787r6LUHBs4oUt.m3u8
+#EXTINF:-1 group-title="轮播",【华语厅】经典 60帧 周星驰 刘德华
+http://tx2play1.douyucdn.cn/925724rwvmZE20yJ.m3u8
 #EXTINF:-1 group-title="轮播",【武侠】金庸武侠、古装神剧
 http://tx2play1.douyucdn.cn/338759rp1hriymL3.m3u8
-#EXTINF:-1 group-title="轮播",【贝爷MAX厅】科幻 动作 经典
-http://tx2play1.douyucdn.cn/4332riVqIoYRE6Qt.m3u8
 #EXTINF:-1 group-title="轮播",【小鸽陪看】动作 枪战 经典 科幻
 http://tx2play1.douyucdn.cn/3928r9p0BHMDG.m3u8
 #EXTINF:-1 group-title="轮播",【小鸽陪看】动作 枪战 经典 科幻
@@ -401,12 +385,20 @@ http://tx2play1.douyucdn.cn/206858rtesHKjl.m3u8
 http://tx2play1.douyucdn.cn/310926r1GttccHs5.m3u8
 #EXTINF:-1 group-title="轮播",【话事人】粤语【周星驰】【林正英】
 http://tx2play1.douyucdn.cn/5033502rKAhPWDWm.m3u8
-#EXTINF:-1 group-title="轮播",【华语厅】经典 60帧 周星驰 刘德华
-http://tx2play1.douyucdn.cn/925724rMEweFIs2e.m3u8
 #EXTINF:-1 group-title="轮播",【超清1】经典港剧天地
 http://tx2play1.douyucdn.cn/4290711r58wJsHRc.m3u8
 #EXTINF:-1 group-title="轮播",【港剧】最早港剧点播
-http://tx2play1.douyucdn.cn/59612rGQyxP2ytsh.m3u8
+http://tx2play1.douyucdn.cn/59612r31C412x8TG.m3u8
+#EXTINF:-1 group-title="轮播",【贝爷影厅】经典 科幻 动作 灾难 巨兽
+http://tx2play1.douyucdn.cn/252802rtynz0sQCd.m3u8
+#EXTINF:-1 group-title="轮播",【贝爷MAX厅】科幻 动作 经典
+http://tx2play1.douyucdn.cn/4332rVScC2XzHu3a.m3u8
+#EXTINF:-1 group-title="轮播",【s1134】经典 科幻 动作 灾难
+http://tx2play1.douyucdn.cn/248753rBsY1KApnP.m3u8
+#EXTINF:-1 group-title="轮播",【小U】丧尸 鬼片 恐怖 惊悚 电影
+http://tx2play1.douyucdn.cn/96577rqs4lVjxdb1.m3u8
+#EXTINF:-1 group-title="轮播",【花卷】60帧豆瓣高分电影
+http://tx2play1.douyucdn.cn/52787rzPyT6RAFAo.m3u8
 #EXTINF:-1 group-title="爱TV",爱江湖
 http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="爱TV",爱军武
@@ -607,8 +599,6 @@ http://117.169.124.37:6610/ysten-businessmobile/live/dongnanstv/yst.m3u8
 http://111.12.102.68:6610/PLTV/77777777/224/3221225696/index.m3u8?
 #EXTINF:-1 group-title="卫视蓝光",东南卫视BD
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="卫视蓝光",山东卫视BD
-http://211.137.115.110:8080/gitv_live/G_SHANDONG-MD/G_SHANDONG-MD.m3u8
 #EXTINF:-1 group-title="卫视蓝光",山东卫视BD
 http://111.12.102.68:6610/PLTV/77777777/224/3221225642/index.m3u8?
 #EXTINF:-1 group-title="卫视蓝光",山东卫视BD
@@ -935,76 +925,6 @@ http://39.134.39.39/PLTV/88888888/224/3221226195/index.m3u8
 http://39.134.39.39/PLTV/88888888/224/3221226170/index.m3u8
 #EXTINF:-1 group-title="SiTV",SRTV1 HD
 http://112.17.40.145/PLTV/88888888/224/3221226479/index.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV新视觉 1080
-http://140.207.241.2:8080/live/program/live/xsjhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV动漫秀场 1080
-http://140.207.241.2:8080/live/program/live/dmxchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV游戏风云 1080
-http://140.207.241.2:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV劲爆体育 1080
-http://140.207.241.2:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV魅力足球 1080
-http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV欢笑剧场 1080
-http://140.207.241.2:8080/live/program/live/hxjchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV极速汽车 1080
-http://140.207.241.2:8080/live/program/live/jsqchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV生活时尚 1080
-http://140.207.241.2:8080/live/program/live/shsshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV全纪实 1080
-http://140.207.241.2:8080/live/program/live/qjshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV都市剧场 1080
-http://140.207.241.2:8080/live/program/live/dsjchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV幸福彩 1080
-http://140.207.241.2:8080/live/program/live/xfchd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV法治天地 540
-http://140.207.241.2:8080/live/program/live/fztd/1300000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV金色频道 540
-http://140.207.241.2:8080/live/program/live/jingsepd/1300000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV七彩戏剧 540
-http://140.207.241.2:8080/live/program/live/qcxj/1300000/mnf.m3u8
-#EXTINF:-1 group-title="SiTV",SiTV东方财经 540
-http://140.207.241.2:8080/live/program/live/dfcj/1300000/mnf.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_收视冠军
-http://baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_shoushiguanjun_720p_t5/c16_lb_shoushiguanjun_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_经典港片
-http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_jingdianguangpian_720p_t5/c18_lb_jingdianguangpian_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_豆瓣高分
-http://baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_动作电影
-http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dongzuodianying_720p_t5/c15_lb_dongzuodianying_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺温情
-http://baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c17_lb_chenglong_720p_t5/c17_lb_chenglong_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_动画电影
-http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_donghuadianying_720p_t5/c15_lb_donghuadianying_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_周末影院
-http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_fengxiaogang_720p_t5/c15_lb_fengxiaogang_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_青春剧场
-http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_qingchunjuchang_720p_t5/c18_lb_qingchunjuchang_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_电影大片
-http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_dianyingjingxuan_720p_t5/c19_lb_dianyingjingxuan_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_谍战剧场
-http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_diezhanjuchang_720p_t5/c18_lb_diezhanjuchang_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_仙侠玄幻
-http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_xianxiaxuanhuan_720p_t5/c18_lb_xianxiaxuanhuan_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_军旅剧场
-http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c17_lb_junlvjuchang_720p_t5/c17_lb_junlvjuchang_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_抗战剧场
-http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c17_lb_kangzhanjuchang_720p_t5/c17_lb_kangzhanjuchang_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_票房收割机
-http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_heibangdianying_720p_t5/c19_lb_heibangdianying_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_宫廷正剧
-http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_niandaijuchang_720p_t5/c19_lb_niandaijuchang_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_家庭剧场
-http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_jiatingjuchang_720p_t5/c19_lb_jiatingjuchang_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_情景喜剧
-http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_qingjingxiju_720p_t5/c16_lb_qingjingxiju_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_经典重温
-http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_jingdianchongwen_720p_t5/c16_lb_jingdianchongwen_720p_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_军事观察
-http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c20_lb_junshiguancha_720P_t5/c20_lb_junshiguancha_720P_t5.m3u8
-#EXTINF:-1 group-title="爱qiyi",爱奇艺_历史秘闻
-http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_lishimiwen_720P_t5/c18_lb_lishimiwen_720P_t5.m3u8
 #EXTINF:-1 group-title="mv",张碧晨-凉凉
 http://vodcdn.video.taobao.com/oss/taobao-ugc/81a4db5f7bb14f2e8260445fedc805c0/1484029283/video.m3u8.m3u8
 #EXTINF:-1 group-title="mv",草蜢-失恋阵线联盟
@@ -1564,8 +1484,6 @@ http://stream2.jlntv.cn/tonghua1/sd/live.m3u8
 #EXTINF:-1 group-title="其他",都市剧场
 http://112.17.40.140/PLTV/88888888/224/3221226825/index.m3u8
 #EXTINF:-1 group-title="其他",金鹰卡通
-http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
-#EXTINF:-1 group-title="其他",金鹰卡通
 http://223.82.250.72/live/jinyingkaton/1.m3u8
 #EXTINF:-1 group-title="其他",金鹰纪实
 http://112.17.40.140/PLTV/88888888/224/3221226831/index.m3u8
@@ -1731,8 +1649,6 @@ http://live.zjmc.tv/1/sd/live.m3u8
 http://live.wjyanghu.com/live/CH2.m3u8
 #EXTINF:-1 group-title="其他",芜湖生活频道
 http://live1.wuhubtv.com/channel2/sd/live.m3u8
-#EXTINF:-1 group-title="其他",芜湖公共频道
-http://wuxue.live.cjyun.org/video/s10107-wxtv1/index.m3u8
 #EXTINF:-1 group-title="其他",芜湖教育频道
 http://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 group-title="其他",六安新闻综合
@@ -1867,8 +1783,6 @@ http://ls.qingting.fm/live/334.m3u8
 http://ls.qingting.fm/live/1288.m3u8
 #EXTINF:-1 group-title="其他",银川生活
 http://stream.ycgbtv.com.cn/ycxw/sd/live.m3u8
-#EXTINF:-1 group-title="其他",海南州藏语频道
-http://live.hnzzzzzdst.com/channel1/sd/live.m3u8
 #EXTINF:-1 group-title="其他",西安新闻综合
 http://stream2.xiancity.cn/xatv1/sd/live.m3u8
 #EXTINF:-1 group-title="其他",西安白鸽都市
@@ -1891,5 +1805,3 @@ https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master
 http://111.12.102.68:6610/PLTV/77777777/224/3221225688/index.m3u8?
 #EXTINF:-1 group-title="其他",精品纪录
 http://112.17.40.147/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1 group-title="其他",大侦探
-http://117.148.187.83/PLTV/88888888/224/3221226179/index.m3u8

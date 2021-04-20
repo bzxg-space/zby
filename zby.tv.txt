@@ -2,7 +2,6 @@
 CCTV1综合,http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 CCTV1综合,http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 CCTV1综合HD,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-CCTV1综合HD,http://39.134.66.66/PLTV/88888888/224/3221225706/index.m3u8
 CCTV1综合HD,http://39.134.66.66/PLTV/88888888/224/3221225732/index.m3u8
 CCTV2财经,http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 CCTV2财经,http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
@@ -28,7 +27,6 @@ CCTV5体育HD,http://39.134.66.66/PLTV/88888888/224/3221225685/index.m3u8
 CCTV5体育HD,http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
 CCTV5体育HD,http://223.110.245.170/PLTV/3/224/3221227166/index.m3u8
 CCTV5体育HD,http://223.110.243.136/PLTV/3/224/3221227478/index.m3u8
-CCTV5+体育赛事,http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv5phd/2300000/mnf.m3u8
 CCTV5+体育赛事HD,http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 CCTV5+体育赛事HD,http://39.134.66.66/PLTV/88888888/224/3221225690/index.m3u8
 CCTV6电影,http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
@@ -45,7 +43,6 @@ CCTV7国防军事,http://39.134.66.66/PLTV/88888888/224/3221225489/index.m3u8
 CCTV8电视剧,https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8
 CCTV8电视剧,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
 CCTV8电视剧,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
-CCTV8电视剧,http://ivi.bupt.edu.cn/hls/cctv8.m3u8
 CCTV8电视剧HD,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 CCTV8电视剧HD,http://39.134.66.66/PLTV/88888888/224/3221225788/index.m3u8
 CCTV9记录,http://ivi.bupt.edu.cn/hls/cctv9.m3u8
@@ -66,8 +63,6 @@ CCTV13新闻,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
 CCTV13新闻,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 CCTV14少儿,https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
 CCTV14少儿,https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
-CCTV14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-CCTV14少儿,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 CCTV14少儿,http://39.134.66.66/PLTV/88888888/224/3221225516/index.m3u8
 CCTV14少儿HD,http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 CCTV14少儿HD,http://39.134.66.66/PLTV/88888888/224/3221225557/index.m3u8
@@ -103,25 +98,7 @@ CCTV新科动漫,http://cctvtxyh5ca.liveplay.myqcloud.com/live/xinkedongman_2_hd
 金鹰卡通,http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
 嘉佳卡通,http://111.12.102.68:6610/PLTV/77777777/224/3221225797/index.m3u8?
 哈哈炫动,http://111.12.102.68:6610/PLTV/77777777/224/3221225711/index.m3u8?
-樱桃小丸子,http://kumeitv.xyz/kumei/bili.php?id=11392177
-樱桃小丸子,http://kumeitv.xyz/kumei/bili.php?id=6554860
-奥特曼特摄蓝光（24小时播）,http://kumeitv.xyz/kumei/bili.php?id=4700569
-194集猫和老鼠24h连播,http://kumeitv.xyz/kumei/bili.php?id=2171135
-【全天播】蜡笔小新樱桃小丸子海绵宝宝,http://kumeitv.xyz/kumei/bili.php?id=22481691
-名侦探柯南超清（国语）,http://kumeitv.xyz/kumei/bili.php?id=2519310
-蜡笔小新/名柯南/哆啦A梦/乌龙派出所,http://kumeitv.xyz/kumei/bili.php?id=22241668
-迪迦奥特曼,http://kumeitv.xyz/kumei/bili.php?id=22054619
-奥特曼24小时大放送,http://kumeitv.xyz/kumei/bili.php?id=21790081
-多啦A梦、蓝胖子24小时直播间,http://kumeitv.xyz/kumei/bili.php?id=102985
-哆啦A梦 超清 国语全集,http://kumeitv.xyz/kumei/bili.php?id=22319157
-蜡笔小新-新之助,http://kumeitv.xyz/kumei/bili.php?id=22447013
-日常看-蜡笔小新哆啦A梦其他动漫-喵～,http://kumeitv.xyz/kumei/bili.php?id=9856712
-猫和老鼠海绵宝宝柯南成龙蜡笔小新历险记,http://kumeitv.xyz/kumei/bili.php?id=7861440
 新版老版猫和老鼠，猫和老鼠大电影轮播,http://kumeitv.xyz/kumei/bili.php?id=14300538
-【剧场版】名侦探柯南 24H,http://kumeitv.xyz/kumei/bili.php?id=10238341
-蜡笔小新、柯南等动漫番ing~,http://kumeitv.xyz/kumei/bili.php?id=22361306
-国语版犬夜叉,http://kumeitv.xyz/kumei/bili.php?id=13128830
-老番剧Live-天才麻将少女,http://kumeitv.xyz/kumei/bili.php?id=358227
 卫视,#genre#
 湖南卫视,http://ivi.bupt.edu.cn/hls/hunantv.m3u8
 湖南卫视,http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
@@ -244,41 +221,27 @@ BEST电影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs
 轮播,#genre#
 欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
 MTV音乐,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-【陈翔六点半】咻咻咻~6点半加速,http://tx2play1.douyucdn.cn/2132902rf8e1t8o1.m3u8
-【开心情景剧】超清去片头片尾,http://tx2play1.douyucdn.cn/6648727rxyiAkL1l.m3u8
-【林正英】香港鬼片 僵尸 女鬼 24小时,http://kumeitv.xyz/kumei/bili.php?id=70155
+【陈翔六点半】咻咻咻~6点半加速,http://tx2play1.douyucdn.cn/2132902ryJGqBvIY.m3u8
+【开心情景剧】超清去片头片尾,http://tx2play1.douyucdn.cn/6648727rufz9EgZB.m3u8
 【周星驰】星爷 华语 经典 电影 神乐,http://tx2play1.douyucdn.cn/122402rK7MO9bXSq.m3u8
 【周星驰】星爷 华语 经典 电影 神乐,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
 【神乐】华语 经典 电影 刘德华 周星驰,http://tx2play1.douyucdn.cn/85894rmovieChow.m3u8
 【神乐】华语 经典 电影 刘德华 周星驰,http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
 【电影可乐】 欧美 电影 科幻 经典 动作,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
-【香港赌片】喜剧、黑帮、动作、武侠、经典,http://tx2play1.douyucdn.cn/315457rkHZoBCIGx.m3u8
-【华语厅】经典 60帧 周星驰 刘德华,http://tx2play1.douyucdn.cn/925724rwvmZE20yJ.m3u8
-【武侠】金庸武侠、古装神剧,http://tx2play1.douyucdn.cn/338759rp1hriymL3.m3u8
+【香港赌片】喜剧、黑帮、动作、武侠、经典,http://tx2play1.douyucdn.cn/315457rl7deAeJRY.m3u8
+【华语厅】经典 60帧 周星驰 刘德华,http://tx2play1.douyucdn.cn/925724rVSokLSx8V.m3u8
 【花卷陪看】60帧豆瓣高分电影,http://tx2play1.douyucdn.cn/52787rjQLQjpEeqM.m3u8
 【小鸽陪看】动作 枪战 经典 科幻,http://tx2play1.douyucdn.cn/3928r9p0BHMDG.m3u8
 【小鸽陪看】动作 枪战 经典 科幻,http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.flv
 【动漫】热血 木叶忍者 草帽路飞 青春,http://tx2play1.douyucdn.cn/206858rtesHKjl.m3u8
-【恐怖电影】鬼片 僵尸 灾难 丧尸片,http://tx2play1.douyucdn.cn/310926r1GttccHs5.m3u8
+【恐怖电影】鬼片 僵尸 灾难 丧尸片,http://tx2play1.douyucdn.cn/310926r5IdslVXSq.m3u8
 【话事人】粤语【周星驰】【林正英】,http://tx2play1.douyucdn.cn/5033502rKAhPWDWm.m3u8
 【超清1】经典港剧天地,http://tx2play1.douyucdn.cn/4290711r58wJsHRc.m3u8
 【港剧】最早港剧点播,http://tx2play1.douyucdn.cn/59612r31C412x8TG.m3u8
-【小U】丧尸 鬼片 恐怖 惊悚 电影,http://tx2play1.douyucdn.cn/96577rqs4lVjxdb1.m3u8
-【贝爷影厅】经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/252802rFlI7SNGOX.m3u8
-【贝爷MAX厅】科幻 动作 经典,http://tx2play1.douyucdn.cn/4332rhd6zNPtJxbL.m3u8
-【s1134】经典 科幻 动作 灾难,http://tx2play1.douyucdn.cn/248753rCAPTfxqFl.m3u8
-明星电影,#genre#
-周星驰电影,http://121.12.115.14/tx.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
-林正英电影,http://121.12.115.14/tx.hls.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8
-成龙电影,http://121.12.115.14/tx.hls.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1.m3u8
-冯小刚电影,http://121.12.115.14/tx.hls.huya.com/src/1423782077-1423782077-6115097457345953792-2847687610-10057-A-0-1.m3u8
-李连杰电影,http://121.12.115.14/tx.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.m3u8
-周润发电影,http://121.12.115.14/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.m3u8
-刘德华电影,http://121.12.115.14/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-甄子丹电影,http://121.12.115.14/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.m3u8
-任达华电影,http://121.12.115.14/tx.hls.huya.com/src/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1.m3u8
-吴京电影,http://121.12.115.14/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
-徐峥电影,http://121.12.115.14/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
+【小U】丧尸 鬼片 恐怖 惊悚 电影,http://tx2play1.douyucdn.cn/96577r1OmOqTijOe.m3u8
+【贝爷影厅】经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/252802rWyXFfFLys.m3u8
+【贝爷MAX厅】科幻 动作 经典,http://tx2play1.douyucdn.cn/4332rGIgKRgNqQn7.m3u8
+【s1134】经典 科幻 动作 灾难,http://tx2play1.douyucdn.cn/248753rhwj2viBip.m3u8
 爱TV,#genre#
 爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
@@ -326,7 +289,6 @@ CCTV10BD,http://111.12.102.68:6610/PLTV/77777777/224/3221225704/index.m3u8?
 CCTV10BD,http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
 CCTV11BD,http://111.12.102.68:6610/PLTV/77777777/224/3221225739/index.m3u8?
 CCTV11BD,http://111.12.102.68:6610/PLTV/77777777/224/3221225750/index.m3u8?
-CCTV11BD,http://39.135.250.71/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221226057/00000001000000060000000000000497_mdn_1.smil?回看=http://92ltw.top/cjwx/PLTV/xxjxhk.php?id=5628.sm
 CCTV12BD,http://111.12.102.68:6610/PLTV/77777777/224/3221225645/index.m3u8?
 CCTV12BD,http://111.12.102.68:6610/PLTV/77777777/224/3221225670/index.m3u8?
 CCTV13BD,http://111.12.102.68:6610/PLTV/77777777/224/3221225677/index.m3u8?
@@ -400,7 +362,6 @@ CCTV17BD,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 河南卫视TD,http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
 海南卫视BD,http://39.134.39.37/PLTV/88888888/224/3221226301/index.m3u8
 海南卫视BD,http://39.134.39.39/PLTV/88888888/224/3221226301/index.m3u8
-云南卫视BD,http://39.130.215.166:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
 云南卫视TD,http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221225838/index.m3u8
 贵州卫视BD,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=41&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 重庆卫视BD,http://111.12.102.68:6610/PLTV/77777777/224/3221225745/index.m3u8?
@@ -444,7 +405,6 @@ CCTV17BD,http://39.134.66.66/PLTV/88888888/224/3221225708/index.m3u8
 黑莓动画FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225710/index.m3u8?
 黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225523/index.m3u8
 黑莓电影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
-黑莓电影FHD,http://121.31.30.91:8081/ysten-business/live/jdianying/1.m3u8
 黑莓电影FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225740/index.m3u8?
 黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225559/index.m3u8
 黑莓电竞,http://39.134.66.66/PLTV/88888888/224/3221225633/index.m3u8
@@ -515,12 +475,8 @@ NewTV动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/
 NewTV海外剧场,http://117.169.119.199:8080/live/xiqumd/index.m3u8
 NewTV欢乐剧场,http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
 NewTV精品电影,http://39.134.65.4:80/wh7f454c46tw1749080918_-1055122425/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8?icpid=88888888&RTS=1554599521&from=1&hms_devid=4
-NewTV军旅剧场,http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
-NewTV军事频道,http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
 NewTV军事评论,http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
 NewTV军事评论,http://117.169.119.199:8080/live/junshipl/index.m3u8
-NewTV完美游戏,http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
-NewTV自由搏击,http://121.31.30.91:8081/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
 NewTV功夫剧场,http://39.134.65.84:80/wh7f454c46tw1933122944_256139629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=130
 NewTV武搏世界,http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 CIBNTV,#genre#
@@ -552,27 +508,6 @@ CIBN音乐综艺,http://v.iam7.cn/iptv/cibn.php?code=145
 CIBN映画,http://v.iam7.cn/iptv/cibn.php?code=TiYu
 CIBN院线大片,http://v.iam7.cn/iptv/cibn.php?code=DanJi
 CIBN真人秀,http://v.iam7.cn/iptv/cibn.php?code=LuShi
-IPTV,#genre#
-IPTV5+蓝光,http://39.134.39.39/PLTV/88888888/224/3221226273/index.m3u8
-IPTV爱情喜剧,http://121.31.30.90:8085/ysten-business/live/aiqingxj/yst.m3u8
-IPTV动画王国,http://121.31.30.90:8085/ysten-business/live/donghuawg/yst.m3u8
-IPTV动作电影,http://121.31.30.90:8085/ysten-business/live/dongzuody/yst.m3u8
-IPTV古装剧场,http://121.31.30.90:8085/ysten-business/live/guzhuangjc/yst.m3u8
-IPTV海外剧场,http://121.31.30.90:8085/ysten-business/live/xiqumd/yst.m3u8
-IPTV家庭剧场,http://121.31.30.90:8085/ysten-business/live/jiatingjc/yst.m3u8
-IPTV金牌综艺,http://121.31.30.90:8085/ysten-business/live/saishijx/yst.m3u8
-NewTV金牌综艺,http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
-IPTV惊悚悬疑,http://121.31.30.90:8085/ysten-business/live/jingsongxy/yst.m3u8
-NewTV惊悚悬疑,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
-IPTV精品大剧,http://121.31.30.90:8085/ysten-business/live/jdaju/yst.m3u8
-IPTV精品电影,http://121.31.30.90:8085/ysten-business/live/jdianying/yst.m3u8
-IPTV精品记录,http://121.31.30.90:8085/ysten-business/live/jingpinjl/yst.m3u8
-IPTV精品综艺,http://121.31.30.90:8085/ysten-business/live/jzongyi/yst.m3u8
-NewTV军旅剧场,http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
-IPTV军旅剧场,http://121.31.30.90:8085/ysten-business/live/junlvjc/yst.m3u8
-IPTV军事评论,http://121.31.30.90:8085/ysten-business/live/junshipl/yst.m3u8
-IPTV明星大片,http://121.31.30.90:8085/ysten-business/live/mingxingdp/yst.m3u8
-NewTV明星大片,http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
 SiTV,#genre#
 SiTV动漫秀场FHD,http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 SiTV都市剧场FHD,http://39.134.39.39/PLTV/88888888/224/3221226176/index.m3u8
@@ -671,12 +606,10 @@ LIGHT,http://qukufile2.qianqian.com/data2/video/691cd7852e98754882da7827879cc8dd
 素颜,http://qukufile2.qianqian.com/data2/video/34fb96a4dd56fac942391c22b394c638/608002797/608002797.mp4
 天下有情人,http://qukufile2.qianqian.com/data2/video/b5cd0d4e3a56db1cc7d9a7f28a8fafe0/607962224/607962224.mp4
 真心英雄,http://qukufile2.qianqian.com/data2/video/3caff6afcd5b78320f72540f3ba3fd86/607962689/607962689.mp4
-挪威的森林,http://qukufile2.qianqian.com/data2/video/5b55a43ab9f4bf18960b40ed9b5a2cb1/607997330/607997330.mp4
 江南,http://qukufile2.qianqian.com/data2/video/91cbbb73820d09b44c5109b22a39a0c8/608124437/608124437.mp4
 病态,http://qukufile2.qianqian.com/data2/video/7ad854b08e94967d6fed7cd32063c61f/668286050/668286050.mp4
 -一千年以后,http://qukufile2.qianqian.com/data2/video/0a70b39b51a858252b7cef53cb680afc/608011368/608011368.mp4
 小酒窝,http://qukufile2.qianqian.com/data2/video/54ac6bacba09ecf7b90b3050d579f671/608008291/608008291.mp4
-我是一只小小鸟,http://qukufile2.qianqian.com/data2/video/b2b92fdd97d9bcb5d2f13548ab36fe99/608006821/608006821.mp4
 明明白白我的心,http://qukufile2.qianqian.com/data2/video/6e2a9470d6bf14f3b8f3165290983867/607972391/607972391.mp4
 奔跑,http://qukufile2.qianqian.com/data2/video/8b6887f35bec76556077f806c8e58570/607945807/607945807.mp4
 当爱在靠近,http://qukufile2.qianqian.com/data2/video/3e6cffefabb669b1dae52e9aa47a73b5/607990892/607990892.mp4
@@ -725,7 +658,6 @@ reol-サイサキ,http://qukufile2.qianqian.com/data2/video/d9ef17b3d5ccaa335a85
 卓依婷雨过天晴,http://vd3.bdstatic.com/mda-jfbggf264f55hv4m/mda-jfbggf264f55hv4m.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷看不见温柔,http://vd3.bdstatic.com/mda-jeqg6s6gc0ietmst/mda-jeqg6s6gc0ietmst.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷大家一起来DJ,http://vd3.bdstatic.com/mda-jf1jfkgj3qte7h96/mda-jf1jfkgj3qte7h96.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-卓依婷多少柔情多少泪,http://vd3.bdstatic.com/mda-jf2eanfjkpwy4ysa/mda-jf2eanfjkpwy4ysa.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷蜗牛与黄鹂鸟,http://vd3.bdstatic.com/mda-jfjnacpfn6r21dec/mda-jfjnacpfn6r21dec.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷山不转水转,http://vd3.bdstatic.com/mda-jb7pfvgc6wuivhqi/mda-jb7pfvgc6wuivhqi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷采红菱,http://vd3.bdstatic.com/mda-jfdvpsg280t986rz/mda-jfdvpsg280t986rz.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
@@ -734,7 +666,6 @@ reol-サイサキ,http://qukufile2.qianqian.com/data2/video/d9ef17b3d5ccaa335a85
 卓依婷梦醒十分,http://vd3.bdstatic.com/mda-jennyc5ci1ugrxzi/mda-jennyc5ci1ugrxzi.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷浪人情歌,http://vd3.bdstatic.com/mda-jetdgjum2nxdvtmu/mda-jetdgjum2nxdvtmu.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷男性的本领,http://vd3.bdstatic.com/mda-jesk2p0h96hjvbsd/mda-jesk2p0h96hjvbsd.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
-卓依婷对花,http://http://v.cdn.sohu.com/1/471f3e70d9fe94b2ee67fe0cc4d8f991/0
 卓依婷无情的班机,http://vd3.bdstatic.com/mda-jeqjsqimdzvytgvv/mda-jeqjsqimdzvytgvv.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷擦干眼泪,http://vd3.bdstatic.com/mda-jeqd4kq8iwh67a1k/mda-jeqd4kq8iwh67a1k.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
 卓依婷同一首歌,http://vd3.bdstatic.com/mda-jf1j2af0dji6ju83/mda-jf1j2af0dji6ju83.mp4?playlist=%5B%22hd%22%2C%22sc%22%5D
@@ -757,10 +688,8 @@ reol-サイサキ,http://qukufile2.qianqian.com/data2/video/d9ef17b3d5ccaa335a85
 陈小云爱人跟人走,http://vd4.bdstatic.com/mda-jgvqig36bu4rc0ej/sc/mda-jgvqig36bu4rc0ej.mp4
 庄振凯八字命,http://vd2.bdstatic.com/mda-jj64e1kixdr93ycn/mda-jj64e1kixdr93ycn.mp4
 江蕙梦中的情话,http://vd2.bdstatic.com/mda-ji4rwrwg7fijyqkh/mda-ji4rwrwg7fijyqkh.mp4
-李明珍酒梦,http://vd2.bdstatic.com/mda-jj3v23hef65nhTV3/mda-jj3v23hef65nhTV3.mp4
 小凤凤爱情一阵风,http://vd2.bdstatic.com/mda-jjm7vgq1iahz0zpg/mda-jjm7vgq1iahz0zpg.mp4
 张秀卿车站,http://vd2.bdstatic.com/mda-jjmnjgiabtvmy13u/sc/mda-jjmnjgiabtvmy13u.mp4
-陈淑苹遇见,http://183.6.209.206:80/sohu/v1/TmwioKIXfBcCPSseZTbiWS1Vy6wWoS4DhY1lyM1v5m47fFoGRMvBY.mp4
 陈淑苹我的伤心谁人知,http://vd3.bdstatic.com/mda-ijjfe3s5z1iyvzgq/sc/mda-ijjfe3s5z1iyvzgq.mp4
 陈淑苹离家,http://vd2.bdstatic.com/mda-iftyuk6tjcxrm53p/sc/mda-iftyuk6tjcxrm53p.mp4
 陈淑苹黄昏之恋,http://vd4.bdstatic.com/mda-jk0m1rgje4eh01cw/hd/mda-jk0m1rgje4eh01cw.mp4
@@ -806,18 +735,8 @@ reol-サイサキ,http://qukufile2.qianqian.com/data2/video/d9ef17b3d5ccaa335a85
 罗时丰擦掉彼句我爱你,http://vd1.bdstatic.com/mda-hj3j9zhu12h99a79/vs-f5f50550f0b93f5020da43ab88266eda-watermark/hd/mda-hj3j9zhu12h99a79.mp4
 罗时丰爱情的路,http://vd4.bdstatic.com/mda-jcrjcp1wy5q2i00n/sc/mda-jcrjcp1wy5q2i00n.mp4
 罗时丰一定要成功,http://vd1.bdstatic.com/mda-hgmk00ncqxvvix0v/mda-hgmk00ncqxvvix0v.mp4
-酒梦,http://jsmov2.a.yximgs.com:80/upic/2019/12/23/07/BMjAxOTEyMjMwNzMzMTFfMTU0MDc1NjUwOF8yMDgyNDEyMTE5OF8yXzM=_b_Bb163055b62a2ec722054c3a849be8194.mp4
-醉鸳鸯,http://upmov.a.yximgs.com:80/upic/2019/12/23/02/BMjAxOTEyMjMwMjIxNTJfMTU0MDc1NjUwOF8yMDgyMjk5NjUwNF8yXzM=_b_Ba4fc7a4e6cfad5d943131bbc21dddfc0.mp4
 伤心痛,http://jsmov2.a.yximgs.com:80/upic/2019/12/23/16/BMjAxOTEyMjMxNjA2NTVfMTU0MDc1NjUwOF8yMDgzNzIyNjQ4Ml8yXzM=_b_Bb25f4d256d6e5bfd0cbd38d3c2324689.mp4
 一暝三冬,http://jsmov2.a.yximgs.com:80/upic/2019/12/24/23/BMjAxOTEyMjQyMzQ1MDdfMTU0MDc1NjUwOF8yMDg5MTYxODE5MF8yXzM=_b_Bc77d889c7e0d63278485e6c22800c903.mp4
-一杯酒,http://alimov2.a.yximgs.com:80/upic/2019/12/23/04/BMjAxOTEyMjMwNDQ5NTFfMTU0MDc1NjUwOF8yMDgyMzMyMzAyMV8yXzM=_b_B8ae7d105599fafd43567e9a8d83a36ee.mp4
-牵着你的手,http://upmov.a.yximgs.com:80/upic/2019/12/23/04/BMjAxOTEyMjMwNDQzMzRfMTU0MDc1NjUwOF8yMDgyMzMyMjM2MV8yXzM=_b_B5a52001b97e7216a9f80c4655120cced.mp4
-悲伤的雨水,http://alimov2.a.yximgs.com:80/upic/2019/12/23/01/BMjAxOTEyMjMwMTQ5MjZfMTU0MDc1NjUwOF8yMDgyMjg3NDA0Ml8yXzM=_b_Ba457f28399cf21a9cc47e7b27cee9ba8.mp4
-悲伤的雨水,,http://alimov2.a.yximgs.com:80/upic/2019/12/23/01/BMjAxOTEyMjMwMTQ5MjZfMTU0MDc1NjUwOF8yMDgyMjg3NDA0Ml8yXzM=_b_Ba457f28399cf21a9cc47e7b27cee9ba8.mp4
-捧在手心里,http://csymov.a.yximgs.com:80/upic/2019/12/25/00/BMjAxOTEyMjUwMDI4MTJfMTU0MDc1NjUwOF8yMDg5MjMxMjYyNV8yXzM=_b_Bf1183e51712b32a7797a44a8c8cdc174.mp4
-一生守侯,http://jsmov2.a.yximgs.com:80/upic/2019/12/24/23/BMjAxOTEyMjQyMzUyMTRfMTU0MDc1NjUwOF8yMDg5MTcyNTQ3OF8yXzM=_b_Bbe6e74fe69aeb0b4ac868f70e22bf9e8.mp4
-露水,http://upmov.a.yximgs.com:80/upic/2019/12/23/02/BMjAxOTEyMjMwMjAwNTJfMTU0MDc1NjUwOF8yMDgyMjkxNDM3MF8yXzM=_b_B9b48424e7e958d342e2fe74d7b4343ac.mp4
-梦中情缘,http://upmov.a.yximgs.com:80/upic/2019/12/23/01/BMjAxOTEyMjMwMTQ4NDVfMTU0MDc1NjUwOF8yMDgyMjgzNDYwNF8yXzM=_b_B1d7a120d99f62b2e05605766468d553f.mp4
 回头路,http://jsmov2.a.yximgs.com:80/upic/2019/12/23/04/BMjAxOTEyMjMwNDMzMDBfMTU0MDc1NjUwOF8yMDgyMzMyMTIxNV8yXzM=_b_Bd3c670c9922835d2c12d0ee39a605219.mp4
 追光者,https://vd3.bdstatic.com/mda-jm9pesj1uis5fssj/hd/mda-jm9pesj1uis5fssj.mp4?pd=20&vt=1
 体面,https://vdse.bdstatic.com//f18bdf41f28b68a1b0177fa5e5cdf8fe.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A29Z%2F-1%2Fhost
@@ -828,24 +747,18 @@ sheep张艺兴,https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?au
 知否知否,http://vd3.bdstatic.com/mda-imnj0y8p1qrw232x/hd/mda-imnj0y8p1qrw232x.mp4?pd=19&vt=1
 纸短情长,https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost
 一曲相思,https://vdse.bdstatic.com//e547b08ce3afad200eec374f3c4ee450.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A00%3A56Z%2F-1%2Fhost
-我们不一样,https://vd3.bdstatic.com/mda-kaiskhuinjf4a8m4/hd/mda-kaiskhuinjf4a8m4.mp4?pd=20&vt=1
 讲真的,https://vdse.bdstatic.com//9145a29aecbbf594c5b21ab1e6b14d20.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A46%3A15Z%2F-1%2Fhost
 陈柯宇生僻字,http://vd2.bdstatic.com/mda-jb28qp6tauzkzpy9/hd/mda-jb28qp6tauzkzpy9.mp4
 往后余生,https://vd3.bdstatic.com/mda-jatub6sb1pzwxfnb/hd/mda-jatub6sb1pzwxfnb.mp4?pd=19&vt=1
 盗将行,https://vdse.bdstatic.com//8355cbc6c2fe19c5ad280869218430f5.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A03%3A13Z%2F-1%2Fhost
 不仅仅是喜欢,https://vd3.bdstatic.com/mda-jhjswzf4u7tsujf1/hd/mda-jhjswzf4u7tsujf1.mp4?pd=19&vt=1
-半壶纱,https://vd3.bdstatic.com/mda-kag404z097ciayha/hd/mda-kag404z097ciayha.mp4?pd=19&vt=1
 下山,https://vdse.bdstatic.com/e2d35750d461a6d524080c7a3c4cb7a4.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
 原版大鱼海棠,http://vd3.bdstatic.com/mda-jm9x2pw13gpb4d82/sc/mda-jm9x2pw13gpb4d82.mp4
 摩登兄弟探清水河,http://vd2.bdstatic.com/mda-jg6dffnbt92877h0/sc/mda-jg6dffnbt92877h0.mp4
 筷子兄弟小苹果,http://vd1.bdstatic.com/mda-hc2rwgemn6yrnvw2/mda-hc2rwgemn6yrnvw2.mp4
 韩红天亮了,http://vd4.bdstatic.com/mda-iirmnjushyxxnr59/hd/mda-iirmnjushyxxnr59.mp4
-李玲玉美人吟,http://vd2.bdstatic.com/mda-ijqrk6jzzyzq6wsh/sc/mda-ijqrk6jzzyzq6wsh.mp4
 李玲玉天竺少女,http://vd3.bdstatic.com/mda-icktmsmht26j2399/sc/mda-icktmsmht26j2399.mp4
 李玲玉女儿情,http://vd4.bdstatic.com/mda-jiqh0kcd7kgpwnmb/sc/mda-jiqh0kcd7kgpwnmb.mp4
-多国语情非得已,https://f0.mc.0sm.com/node0/2019/11/85DDCF3311FD528D-7e7df208892b4416.mp4
-MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c0573c.mp4
-张国荣倩女幽魂,https://f0.mc.0sm.com/node0/2019/11/85DDCED95A04E6C4-ec0e0c228657e4ab.mp4?dsjtv.m3u8
 你的酒馆对我打了烊陈雪凝,https://vd3.bdstatic.com/mda-ka59e4w0qxxsxnt0/hd/mda-ka59e4w0qxxsxnt0.mp4?pd=19&vt=1
 醉千年李袁杰,http://vd3.bdstatic.com/mda-ihai9qt3yny3sx53/hd/mda-ihai9qt3yny3sx53.mp4?pd=19&vt=1
 不染,https://vd3.bdstatic.com/mda-jmceuahfwxarnh7v/hd/mda-jmceuahfwxarnh7v.mp4?pd=20&playlist=%5B%22hd%22%2C%22sc%22%5D
@@ -863,12 +776,10 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 如梦令,https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
 孤芳自赏,https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A59Z%2F-1%2Fhost
 风筝误,https://vdse.bdstatic.com/c331feb0b4730b05d03793ffc024e62a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-38度6,https://vd3.bdstatic.com/mda-jmeeqqmp5fc82mts/hd/mda-jmeeqqmp5fc82mts.mp4?pd=19&vt=1
 让我留在你身边,https://vd3.bdstatic.com/mda-ka937fuwjq5nc1hd/hd/mda-ka937fuwjq5nc1hd.mp4?pd=19&vt=1
 我曾,https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
 我愿意平凡的陪在你身旁,https://vdse.bdstatic.com/570e05ef514db00b14c9c10d1aef7f1f.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z
 大田后生仔,https://vdse.bdstatic.com/1f5b8de1e52e8ebe8d5493d29bf29981.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-绿色,https://vd3.bdstatic.com/mda-jm07uzeu8ssth6c7/hd/mda-jm07uzeu8ssth6c7.mp4?pd=19&vt=1
 芒种,https://vd3.bdstatic.com/mda-kat1tr4ka5st965k/hd/mda-kat1tr4ka5st965k.mp4?pd=20
 芙蓉雨,https://vdse.bdstatic.com//85593e1127a1389dc49e9b0491814df2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A58%3A05Z%2F-1%2Fhost
 你的答案,https://vdse.bdstatic.com/363480020aaa13240bbe51121d3e2a65.mp4?authorization=bce-auth-v1%2Ffb297a5cc0fb434c971b8fa103e8dd7b%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
@@ -1015,13 +926,11 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 悬空寺侧景,https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
 天涯鸟瞰,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtynl_1/index.m3u8?contentid=2820180516001
 天涯石,https://gctxyc.liveplay.myqcloud.com/gc/tyhjtys_1/index.m3u8?contentid=2820180516001
-南天一柱,https://gctxyc.liveplay.myqcloud.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
 雪乡大石碑,https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
 雪乡梦幻家园,https://gctxyc.liveplay.myqcloud.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
 嘉峪关长城,https://gctxyc.liveplay.myqcloud.com/gc/jyg04_1/index.m3u8?contentid=2820180516001
 中央电视台中塔东,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
 中央电视台中塔北,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
-珠峰观景,https://live-sync.myun.tv/live/0ezeb8o0_master.m3u8
 黟县月沼,https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
 黟县南湖,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
 黟县牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
@@ -1062,9 +971,7 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 直播中国精编直播,http://gctxyc.liveplay.myqcloud.com/gc/wgw05_1_md.m3u8
 中央电视塔东,http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
 中央电视塔南,http://gcbsc.v.live.baishancdnx.cn/gc/ztn_1/index.m3u8
-中央电视塔西,http://gcksc.v.kcdnvTV.com/gc/ztx_1/index.m3u8
 中央电视塔北,http://gctxyc.liveplay.myqcloud.com/gc/ztb_1_md.m3u8
-宁夏黄河大峡谷,http://gcksc.v.kcdnvTV.com/gc/hhdxg01_1/index.m3u8
 浙江舟山东极岛,http://gctxyc.liveplay.myqcloud.com/gc/djd01_1_md.m3u8
 平遥古城,http://gccncc.v.wscdns.com/gc/pygc01_1/index.m3u8
 仙都风景区,http://gccncc.v.wscdns.com/gc/xdfjq01_1/index.m3u8
@@ -1073,21 +980,17 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 双乳峰,http://gctxyc.liveplay.myqcloud.com/gc/xysrf_1_md.m3u8
 马岭河峡谷,http://gccncc.v.wscdns.com/gc/xymlh_1/index.m3u8
 万峰林,http://gccncc.v.wscdns.com/gc/xywfl_1/index.m3u8
-少林寺广场,http://gcksc.v.kcdnvTV.com/gc/zsslsgc_1/index.m3u8
 嵩山峻极峰,http://gccncc.v.wscdns.com/gc/zsslsjjfsd_1/index.m3u8
 嵩山胜观峰,http://gccncc.v.wscdns.com/gc/zsslstpt_1/index.m3u8
 婺源01,http://gcbsc.v.live.baishancdnx.cn/gc/wygjt1_1/index.m3u8
 婺源02,http://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8
-嘉峪关01,http://gcdnc.v.dwion.com/gc/jyg01_1_md.m3u8
 嘉峪关02,http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
 嘉峪关03,http://gctxyc.liveplay.myqcloud.com/gc/jyg04_1_md.m3u8
 都江堰-鱼嘴,http://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1_md.m3u8
 都江堰-飞沙堰,http://gctxyc.liveplay.myqcloud.com/gc/djyewm_1_md.m3u8
-都江堰-秦堰楼,http://gcksc.v.kcdnvTV.com/gc/djyqyl2_1/index.m3u8
 丹霞山丹梯铁锁,http://gctxyc.liveplay.myqcloud.com/gc/dxsdtts_1_md.m3u8
 韶音亭,http://gctxyc.liveplay.myqcloud.com/gc/dxssyt_1_md.m3u8
 坝达景点观景台,http://gccncc.v.wscdns.com/gc/hnttbdjd_1/index.m3u8
-多依树景点,http://gcksc.v.kcdnvTV.com/gc/hnttdysjd_1/index.m3u8
 普高老寨,http://gctxyc.liveplay.myqcloud.com/gc/hnttpgsz_1_md.m3u8
 老虎嘴,http://gccncc.v.wscdns.com/gc/hnttlhzjd_1/index.m3u8
 乐山大佛全景,http://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8
@@ -1097,20 +1000,15 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 大红袍茶园,http://gcalic.v.myalicdn.com/gc/wysdhpcy_1/index.m3u8
 武夷山玉女峰,http://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
 华山,http://gccncc.v.wscdns.com/gc/hkhs01_1/index.m3u8
-甘坑客家小镇,http://gcksc.v.kcdnvTV.com/gc/szgk01_1/index.m3u
-十八洞村,http://gcksc.v.kcdnvTV.com/gc/sbd01_1/index.m3u8
 六盘山红军长征景区,http://gctxyc.liveplay.myqcloud.com/gc/lpsgmjng01_1_md.m3u8
-桂林象山公园,http://gcksc.v.kcdnvTV.com/gc/glxs01_1/index.m3u8
 九龙汇海,http://gccncc.v.wscdns.com/gc/pshdxg01_1/index.m3u8
 峡谷石林,http://gcalic.v.myalicdn.com/gc/pshdxg02_1/index.m3u8
 天涯鸟瞰,http://gccncc.v.wscdns.com/gc/tyhjtynl_1/index.m3u8
 天涯石,http://gcbsc.v.live.baishancdnx.cn/gc/tyhjtys_1/index.m3u8
 南天一柱,http://gcksc.v.kcdnvTV.com/gc/tyhjntyz_1/index.m3u8
 日月石,http://gctxyc.liveplay.myqcloud.com/gc/tyhjrys_1_md.m3u8
-银链坠潭瀑布,http://gcksc.v.kcdnvTV.com/gc/hgsylztpb_1/index.m3u8
 六角亭瀑布,http://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8
 恒山悬空寺全景,http://gcbsc.v.live.baishancdnx.cn/gc/hsxksqj_1/index.m3u8
-恒山恒宗,http://gcksc.v.kcdnvTV.com/gc/hsxkssqdzrqj_1/index.m3u8
 恒山悬空寺侧景,http://gctxyc.liveplay.myqcloud.com/gc/hsxkscj_1_md.m3u8
 深圳世界之窗,http://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8
 黄山-卧云峰,http://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
@@ -1121,43 +1019,33 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 峨眉山-远眺贡嘎雪山,http://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
 峨眉山-普贤菩萨铜像,http://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
 峨眉山-远眺万佛顶,http://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-凤凰古城东关门,http://gcksc.v.kcdnvTV.com/gc/fhgcdgm_1/index.m3u8
 凤凰古城南华山,http://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8
 芦村远眺,http://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
 西递半山亭,http://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8
 西递牌坊,http://gcbsc.v.live.baishancdnx.cn/gc/yxxdpf_1/index.m3u8
 宏村月沼,http://gcbsc.v.live.baishancdnx.cn/gc/yxhcyz_1/index.m3u8
-雪乡梦幻观景台,http://gcksc.v.kcdnvTV.com/gc/mdjxxmhjygjt_1/index.m3u8
 雪乡梦幻家园,http://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
 雪乡梦幻大石碑,http://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8
 云台山-小寨沟,http://gctxyc.liveplay.myqcloud.com/gc/ytsxzg_1_md.m3u8
 云台山-百家岩,http://gccncc.v.wscdns.com/gc/ytsbjy_1/index.m3u8
 云台山-红石峡,http://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8
-朱鹮01,http://gcksc.v.kcdnvTV.com/gc/zhhd01_1/index.m3u8
 朱鹮02,http://gcbsc.v.live.baishancdnx.cn/gc/zh02_1/index.m3u8
 朱鹮03,http://gctxyc.liveplay.myqcloud.com/gc/zh03_1_md.m3u8
 朱鹮04,http://gctxyc.liveplay.myqcloud.com/gc/zh04_1_md.m3u8
 崂山-双福,http://gcbsc.v.live.baishancdnx.cn/gc/qdls03_1/index.m3u8
 崂山-太清,http://gctxyc.liveplay.myqcloud.com/gc/qdls04_1_md.m3u8
-崂山-灵旗峰,http://gcksc.v.kcdnvTV.com/gc/qdls01_1/index.m3u8
 崂山-八水河,http://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
-福建宁德太姥山景区,http://gcksc.v.kcdnvTV.com/gc/tms01_1/index.m3u8
-崇圣寺三塔中景,http://gcksc.v.kcdnvTV.com/gc/dlst03_1/index.m3u8
 崇圣寺三塔湖面,http://gcalic.v.myalicdn.com/gc/dlst02_1/index.m3u8
 崇圣寺三塔远景,http://gcbsc.v.live.baishancdnx.cn/gc/dlst01_1/index.m3u8
 西汉南越王博物馆,http://gctxyc.liveplay.myqcloud.com/gc/nywbwg01_1_md.m3u8
-醉美沙滩翡翠湾,http://gcksc.v.kcdnvTV.com/gc/fcw03_1/index.m3u8
 福建漳州六鳌翡翠湾,http://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
 云龙山观景台西,http://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
 云龙山观景台南,http://gctxyc.liveplay.myqcloud.com/gc/ylh03_1_md.m3u8
 国家游泳中心-水立方,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
-天津之眼,http://gcksc.v.kcdnvTV.com/gc/tjhh01_1/index.m3u8
 天津海河,http://gctxyc.liveplay.myqcloud.com/gc/tjhh02_1_md.m3u8
 汶川映秀新城,http://gcbsc.v.live.baishancdnx.cn/gc/wcyxxc01_1/index.m3u8
-趵突泉,http://gcksc.v.kcdnvTV.com/gc/btq01_1/index.m3u8
 重庆李子坝轻轨站,http://gcalic.v.myalicdn.com/gc/gccntv240-lzb01_1/index.m3u8
 厦门鼓浪屿,http://gctxyc.liveplay.myqcloud.com/gc/gly01_1_md.m3u8
-玉液湖,http://gcksc.v.kcdnvTV.com/gc/hkylxs02_1/index.m3u8
 蓝月谷,http://gccncc.v.wscdns.com/gc/ylxs12_1/index.m3u8
 印象实景,http://gccncc.v.wscdns.com/gc/hkylxs01_1/index.m3u8
 千岛湖,http://gctxyc.liveplay.myqcloud.com/gc/caqdh_1_md.m3u8
@@ -1171,14 +1059,11 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 龙形田,http://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
 乌镇全景,http://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
 鸣沙山山门,http://gcalic.v.myalicdn.com/gc/dhyyqyyq_1/index.m3u8
-鸣沙山,http://gcksc.v.kcdnvTV.com/gc/dhyyqst_1/index.m3u8
 鸣沙山月牙泉,http://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
 张家界-将军列队,http://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
 张家界-水绕四门,http://gccncc.v.wscdns.com/gc/zjjsrsm_1/index.m3u8
 张家界-阿凡达悬浮山,http://gctxyc.liveplay.myqcloud.com/gc/zjjafdxfs_1_md.m3u8
-张家界-迷魂台,http://gcksc.v.kcdnvTV.com/gc/zjjmht_1/index.m3u8
 哈尼梯田·普高老寨,http://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8
-青海湖,http://gcalic.v.myalicdn.com/gc/qhh_1/index.m3u8
 八达岭长城南七楼,http://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8
 八达岭长城北十楼,http://gccncc.v.wscdns.com/gc/bgwn10_1/index.m3u8
 黄花城水长城01,http://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
@@ -1202,7 +1087,6 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 天空步道,http://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8
 云梦仙顶,http://gctxyc.liveplay.myqcloud.com/gc/tms04_1_md.m3u8
 大容山莲花山顶,http://gctxyc.liveplay.myqcloud.com/gc/drs01_1_md.m3u8
-南京玄武湖公园,http://gcksc.v.kcdnvTV.com/gc/xwh01_1/index.m3u8
 江苏南京牛首山,http://gctxyc.liveplay.myqcloud.com/gc/nss01_1_md.m3u8
 郑东新区千玺广场,http://gctxyc.liveplay.myqcloud.com/gc/zdxq01_1_md.m3u8
 普陀山,http://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
@@ -1212,11 +1096,9 @@ MMD初音未来,https://f0.mc.0sm.com/node0/2019/11/85DDD1715712B567-8e67449f05c
 黄河漂流,http://gctxyc.liveplay.myqcloud.com/gc/nxspthhpl_1_md.m3u8
 大漠孤烟,http://gctxyc.liveplay.myqcloud.com/gc/nxsptdmgy_1_md.m3u8
 大研花巷观景,http://gcbsc.v.live.baishancdnx.cn/gc/ljgcdyhxgjt_1/index.m3u8
-大水车,http://gcksc.v.kcdnvTV.com/gc/ljgcdsc_1/index.m3u8
 万古楼遥望玉龙雪山,http://gccncc.v.wscdns.com/gc/ljgcwglytylxs_1/index.m3u8
 五彩池,http://gccncc.v.wscdns.com/gc/hlwcc_1/index.m3u8
 黄龙·争艳彩池,http://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-黄龙望乡台,http://gcksc.v.kcdnvTV.com/gc/hlwxt_1/index.m3u8
 黄龙洗身洞,http://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
 其他,#genre#
 CETV-1HD,http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
@@ -1240,7 +1122,6 @@ CGTN DOCHD,http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
 北京文艺HD,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 唯心電視,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-HBO2台,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
 点掌财经,http://cclive2.aniu.tv/live/anzb.m3u8
 日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 日本Japan News 24,http://www.news24.jp/livestream/index.m3u8
@@ -1258,19 +1139,12 @@ CGTN 国际频道,http://live.cgtn.com/1000/prog_index.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
-越南人民报,http://vietcago.net/vstv/thnd.m3u8
-印度音乐电视,http://104.237.60.234/live/gabruutv.m3u8?dsjtv.m3u8
-法国第五世界台,http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
-法国24台 (英语),http://f24hls-i.akamaihd.net/hls/live/221193-b/F24_EN_LO_HLS/master_900.m3u8
-法国24台 (法语),http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8
 俄罗斯HD时尚频道,http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 乌克兰M2 音乐频道,http://live.m2.tv/hls3/stream.m3u8
 西班牙中国环球,http://livees.cgtn.com/1000e/prog_index.m3u8
 意大利V2 音乐频道,http://de1se01.v2beat.live/playlist.m3u8
 红牛电视,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-NBC电视,http://161.0.157.51/PLTV/88888888/224/3221227040/index.m3u8?fluxustv.m3u8
 Jewelry电视,http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-Free电视,https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
 Darcizzle电视,http://30a-tv.com/darcizzle.m3u8
 Docurama电视,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 Music电视,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
@@ -1300,9 +1174,7 @@ Dance电视,https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 通化新闻,http://183.207.249.9/PLTV/3/224/3221225566/index.m3u8
 海西州综合频道,http://stream.haixitv.cn/1/sd/live.m3u8
 滨州公共电视剧,http://stream.bzcm.net/1/sd/live.m3u8
-绵竹新闻综合,http://w1.livecdn.yicai.com/hls/live/CBN_hd/live.m3u8
 迪庆藏语,http://live.jmtv.com.cn/xwzhpl/sd/live.m3u8
-屏边综合,http://stream.ahrtv.cn/xnyy/sd/live.m3u8
 金华教育科技,http://223.82.250.72/live/chongqingstv/1.m3u8
 金华教育科技,http://stream3.xiancity.cn/2/sd/live.m3u8
 金华都市农村,http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/chongqingstv/1.m3u8
@@ -1357,7 +1229,6 @@ Dance电视,https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 惠州新闻综合,http://dslive.grtn.cn/hzzh/sd/live.m3u8
 敦煌电视台,http://117.156.28.119/270000001111/1110000028/index.m3u8
 枣庄公共频道,http://stream.zzgd.tv/3/sd/live.m3u8
-栖霞新闻频道,http://pili-live-hls.140.i2863.com/i2863-140/live_140_236499.m3u8
 榆树综合频道,http://stream.zhystv.com/yset/sd/live.m3u8
 河源综合,http://dslive.grtn.cn/hyzh/sd/live.m3u8
 灵台新闻综合,http://117.156.28.119/270000001111/1110000145/index.m3u8
@@ -1369,7 +1240,6 @@ Dance电视,https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 芜湖教育频道,http://live1.wuhubtv.com/channel4/sd/live.m3u8
 芜湖新闻综合,http://live1.wuhubtv.com/channel1/sd/live.m3u8
 萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
-衡水公共频道,http://hls.hsrtv.cn/hls/hstv3.m3u8
 衡水影视娱乐,http://hls.hsrtv.cn/hls/hstv2.m3u8
 衡水新闻综合,http://hls.hsrtv.cn/hls/hstv1.m3u8
 襄阳公共,http://xiangyang.live.cjyun.org/video/s10125-education_hd/index.m3u8
@@ -1379,10 +1249,6 @@ Dance电视,https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 越南ANTVHD,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 金鹰卡通,http://223.82.250.72/live/jinyingkaton/1.m3u8
 银川公共,http://stream.ycgbtv.com.cn/ycgg/sd/live.m3u8
-长沙公交移动,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_357.m3u8
-长沙新闻,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
-长沙经贸,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_350.m3u8
-长沙购物,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_354.m3u8
 静宁综合,http://117.156.28.119/270000001111/1110000147/index.m3u8
 高台电视台,http://117.156.28.119/270000001111/1110000146/index.m3u8
 鹤峰综合频道,http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
@@ -1391,14 +1257,12 @@ Dance电视,https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 黔西南综合,http://live.qxndt.com/channel2/sd/live.m3u8
 龙岩公共,http://stream.lytv.net.cn/1/sd/live.m3u8
 陕西卫视,http://223.82.250.72/live/shanxi1stv/1.m3u8
-长沙女性,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
 长沙政法,http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 张家界2台,http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
 荆门新闻,http://live.jmtv.com.cn/xwzh/sd/live.m3u8
 荆门教育,http://live.jmtv.com.cn/ggsh/sd/live.m3u8
 荆门公共农谷,http://live.jmtv.com.cn/ngpd/sd/live.m3u8
 襄阳经济,http://xiangyang.live.cjyun.org/video/s10125-society_hd/index.m3u8
-随州农村,http://suizhou.source.cjyun.org/video/s10145-szncpd.m3u8
 江门综合,http://dslive.grtn.cn/jmzh/sd/live.m3u8
 汕头综合,http://dslive.grtn.cn/stzh/sd/live.m3u8
 佛山综合,http://dslive.grtn.cn/fszh/sd/live.m3u8
@@ -1418,11 +1282,6 @@ Dance电视,https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 浙江少儿频道,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
 浙江留学频道,http://hw-m-l.cztv.com/channels/lantian/channel09/1080p.m3u8?k=e50bfc43311fc5aecad39f294634bb01&t=1577153817
 浙江国际,http://hw-m-l.cztv.com/channels/lantian/channel10/1080p.m3u8?k=48877e6c28c2a0215eb8712eb48b888d&t=1577153884
-杭州HTV-1,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229307/index.m3u8
-杭州HTV-2,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229310/index.m3u8
-杭州HTV-3,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229313/index.m3u8
-杭州HTV-4,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229377/index.m3u8
-杭州HTV-5,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229316/index.m3u8
 酒泉公共,http://117.156.28.119/270000001111/1110000002/index.m3u8
 金昌综合频道,http://stream4.liveyun.hoge.cn/ch02/sd/live.m3u8
 金昌公共频道,http://stream4.liveyun.hoge.cn/ch01/sd/live.m3u8
@@ -1454,9 +1313,7 @@ Dance电视,https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 六安新闻综合,http://ls.qingting.fm/live/267.m3u8
 六安公共频道,http://ls.qingting.fm/live/1794199.m3u8
 滁州公共频道,http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
-江津经济生活,http://pili-live-hls.qnlive.appwuhan.com/jianwei/896.m3u8?auth_key=1550149076-1381559855-0-45ab235bdc6abcb4ab75c652ac521df5
 彭水新闻综合,http://pengshuilive.cbg.cn/pengshui01.m3u8
-万盛新闻综合,http://stream0.tv41.ru/live.m3u8
 三明新闻综合,http://ls.qingting.fm/live/4885.m3u8
 三明公共频道,http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
 新罗电视一套,http://stream.lyxltv.com/xltv/sd/live.m3u8

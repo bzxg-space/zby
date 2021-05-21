@@ -13,8 +13,6 @@ http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2财经
 http://39.134.66.66/PLTV/88888888/224/3221225696/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV2财经
-http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2财经HD
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV3综艺
@@ -126,8 +124,6 @@ http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 group-title="央视",CCTV14少儿
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV14少儿
-https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV14少儿
 http://39.134.66.66/PLTV/88888888/224/3221225516/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV14少儿HD
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
@@ -148,8 +144,6 @@ http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
 #EXTINF:-1 group-title="少儿",CCTV14少儿
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
 #EXTINF:-1 group-title="少儿",CCTV14少儿
-https://cctvalih5ca.v.myalicdn.com/live/cctvchild_2/index.m3u8
-#EXTINF:-1 group-title="少儿",CCTV14少儿
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
 #EXTINF:-1 group-title="少儿",CCTV14少儿
 http://ivi.bupt.edu.cn/hls/cctv14.m3u8
@@ -161,8 +155,6 @@ http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 http://stream.gstv.com.cn/sepd/sd/live.m3u8
 #EXTINF:-1 group-title="少儿",山西少儿
 http://live2.sxrtv.com/flvss?bitrate=800000&channel=Shan1XiChild
-#EXTINF:-1 group-title="少儿",云南少儿
-http://edge2.yntv.cn/channels/yntv/ynse/flv:sd/live
 #EXTINF:-1 group-title="少儿",南京少儿
 http://ls.qingting.fm/live/3701149.m3u8
 #EXTINF:-1 group-title="少儿",哈哈卡通
@@ -195,8 +187,6 @@ http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
 http://111.12.102.68:6610/PLTV/77777777/224/3221225797/index.m3u8?
 #EXTINF:-1 group-title="少儿",哈哈炫动
 http://111.12.102.68:6610/PLTV/77777777/224/3221225711/index.m3u8?
-#EXTINF:-1 group-title="少儿",新版老版猫和老鼠，猫和老鼠大电影轮播
-http://kumeitv.xyz/kumei/bili.php?id=14300538
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://ivi.bupt.edu.cn/hls/hunantv.m3u8
 #EXTINF:-1 group-title="卫视",湖南卫视
@@ -433,10 +423,8 @@ http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="轮播",欢笑剧场4K
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="轮播",MTV音乐
-http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 group-title="轮播",【陈翔六点半】咻咻咻~6点半加速
-http://tx2play1.douyucdn.cn/2132902ryJGqBvIY.m3u8
+http://tx2play1.douyucdn.cn/2132902rMfyxirEj.m3u8
 #EXTINF:-1 group-title="轮播",【开心情景剧】超清去片头片尾
 http://tx2play1.douyucdn.cn/6648727rufz9EgZB.m3u8
 #EXTINF:-1 group-title="轮播",【周星驰】星爷 华语 经典 电影 神乐
@@ -450,33 +438,19 @@ http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
 #EXTINF:-1 group-title="轮播",【电影可乐】 欧美 电影 科幻 经典 动作
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
 #EXTINF:-1 group-title="轮播",【香港赌片】喜剧、黑帮、动作、武侠、经典
-http://tx2play1.douyucdn.cn/315457rl7deAeJRY.m3u8
+http://tx2play1.douyucdn.cn/315457r18ZXdyKZ6.m3u8
 #EXTINF:-1 group-title="轮播",【华语厅】经典 60帧 周星驰 刘德华
-http://tx2play1.douyucdn.cn/925724rVSokLSx8V.m3u8
-#EXTINF:-1 group-title="轮播",【花卷陪看】60帧豆瓣高分电影
-http://tx2play1.douyucdn.cn/52787rjQLQjpEeqM.m3u8
-#EXTINF:-1 group-title="轮播",【小鸽陪看】动作 枪战 经典 科幻
-http://tx2play1.douyucdn.cn/3928r9p0BHMDG.m3u8
-#EXTINF:-1 group-title="轮播",【小鸽陪看】动作 枪战 经典 科幻
-http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.flv
+http://tx2play1.douyucdn.cn/925724rYNq8Vzs5L.m3u8
 #EXTINF:-1 group-title="轮播",【动漫】热血 木叶忍者 草帽路飞 青春
 http://tx2play1.douyucdn.cn/206858rtesHKjl.m3u8
-#EXTINF:-1 group-title="轮播",【恐怖电影】鬼片 僵尸 灾难 丧尸片
-http://tx2play1.douyucdn.cn/310926r5IdslVXSq.m3u8
 #EXTINF:-1 group-title="轮播",【话事人】粤语【周星驰】【林正英】
 http://tx2play1.douyucdn.cn/5033502rKAhPWDWm.m3u8
 #EXTINF:-1 group-title="轮播",【超清1】经典港剧天地
 http://tx2play1.douyucdn.cn/4290711r58wJsHRc.m3u8
-#EXTINF:-1 group-title="轮播",【港剧】最早港剧点播
-http://tx2play1.douyucdn.cn/59612r31C412x8TG.m3u8
-#EXTINF:-1 group-title="轮播",【小U】丧尸 鬼片 恐怖 惊悚 电影
-http://tx2play1.douyucdn.cn/96577r1OmOqTijOe.m3u8
 #EXTINF:-1 group-title="轮播",【贝爷影厅】经典 科幻 动作 灾难 巨兽
-http://tx2play1.douyucdn.cn/252802rWyXFfFLys.m3u8
-#EXTINF:-1 group-title="轮播",【贝爷MAX厅】科幻 动作 经典
-http://tx2play1.douyucdn.cn/4332rGIgKRgNqQn7.m3u8
+http://tx2play1.douyucdn.cn/252802rsTlrllXss.m3u8
 #EXTINF:-1 group-title="轮播",【s1134】经典 科幻 动作 灾难
-http://tx2play1.douyucdn.cn/248753rhwj2viBip.m3u8
+http://tx2play1.douyucdn.cn/248753rC2Zp89Lu4.m3u8
 #EXTINF:-1 group-title="爱TV",爱江湖
 http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="爱TV",爱军武
@@ -937,62 +911,6 @@ http://117.169.119.199:8080/live/junshipl/index.m3u8
 http://39.134.65.84:80/wh7f454c46tw1933122944_256139629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=130
 #EXTINF:-1 group-title="NewTV",NewTV武搏世界
 http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
-#EXTINF:-1 group-title="CIBNTV",CIBN动漫剧场
-http://v.iam7.cn/iptv/cibn.php?code=QinZi
-#EXTINF:-1 group-title="CIBNTV",CIBN动作影院
-http://v.iam7.cn/iptv/cibn.php?code=ShengHuo
-#EXTINF:-1 group-title="CIBNTV",CIBN古典音乐
-http://v.iam7.cn/iptv/cibn.php?code=78
-#EXTINF:-1 group-title="CIBNTV",CIBN好莱坞
-http://v.iam7.cn/iptv/cibn.php?code=ZongHe
-#EXTINF:-1 group-title="CIBNTV",CIBN健康
-http://v.iam7.cn/iptv/cibn.php?code=JianKang
-#EXTINF:-1 group-title="CIBNTV",CIBN经典剧场
-http://v.iam7.cn/iptv/cibn.php?code=DOTA2
-#EXTINF:-1 group-title="CIBNTV",CIBN经典乐场
-http://v.iam7.cn/iptv/cibn.php?code=162
-#EXTINF:-1 group-title="CIBNTV",CIBN经典音乐
-http://v.iam7.cn/iptv/cibn.php?code=128
-#EXTINF:-1 group-title="CIBNTV",CIBN精品收藏
-http://v.iam7.cn/iptv/cibn.php?code=501
-#EXTINF:-1 group-title="CIBNTV",CIBN精品影院
-http://v.iam7.cn/iptv/cibn.php?code=JingPin
-#EXTINF:-1 group-title="CIBNTV",CIBN巨星演唱会
-http://v.iam7.cn/iptv/cibn.php?code=135
-#EXTINF:-1 group-title="CIBNTV",CIBN老陈座谈
-http://v.iam7.cn/iptv/cibn.php?code=136
-#EXTINF:-1 group-title="CIBNTV",CIBN流行榜单
-http://v.iam7.cn/iptv/cibn.php?code=155
-#EXTINF:-1 group-title="CIBNTV",CIBN流金岁月
-http://v.iam7.cn/iptv/cibn.php?code=Shoucang
-#EXTINF:-1 group-title="CIBNTV",CIBN女团专场
-http://v.iam7.cn/iptv/cibn.php?code=208
-#EXTINF:-1 group-title="CIBNTV",CIBN汽车
-http://v.iam7.cn/iptv/cibn.php?code=QiChe
-#EXTINF:-1 group-title="CIBNTV",CIBN情感影院
-http://v.iam7.cn/iptv/cibn.php?code=QingGan
-#EXTINF:-1 group-title="CIBNTV",CIBN全电竞
-http://v.iam7.cn/iptv/cibn.php?code=115
-#EXTINF:-1 group-title="CIBNTV",CIBN全球歌曲
-http://v.iam7.cn/iptv/cibn.php?code=338
-#EXTINF:-1 group-title="CIBNTV",CIBN莎翁戏剧
-http://v.iam7.cn/iptv/cibn.php?code=68
-#EXTINF:-1 group-title="CIBNTV",CIBN时尚生活
-http://v.iam7.cn/iptv/cibn.php?code=DongLinFaYin
-#EXTINF:-1 group-title="CIBNTV",CIBN文旅中国
-http://v.iam7.cn/iptv/cibn.php?code=MeiZhuang
-#EXTINF:-1 group-title="CIBNTV",CIBN怡家
-http://v.iam7.cn/iptv/cibn.php?code=JiaoYu
-#EXTINF:-1 group-title="CIBNTV",CIBN艺术院线
-http://v.iam7.cn/iptv/cibn.php?code=YingXiong
-#EXTINF:-1 group-title="CIBNTV",CIBN音乐综艺
-http://v.iam7.cn/iptv/cibn.php?code=145
-#EXTINF:-1 group-title="CIBNTV",CIBN映画
-http://v.iam7.cn/iptv/cibn.php?code=TiYu
-#EXTINF:-1 group-title="CIBNTV",CIBN院线大片
-http://v.iam7.cn/iptv/cibn.php?code=DanJi
-#EXTINF:-1 group-title="CIBNTV",CIBN真人秀
-http://v.iam7.cn/iptv/cibn.php?code=LuShi
 #EXTINF:-1 group-title="SiTV",SiTV动漫秀场FHD
 http://39.134.39.39/PLTV/88888888/224/3221226197/index.m3u8
 #EXTINF:-1 group-title="SiTV",SiTV都市剧场FHD
@@ -1343,8 +1261,6 @@ http://vd4.bdstatic.com/mda-jm4h7v1isxwc660u/sc/mda-jm4h7v1isxwc660u.mp4
 http://vd3.bdstatic.com/mda-jm53zq7k0b0kbxch/sc/mda-jm53zq7k0b0kbxch.mp4
 #EXTINF:-1 group-title="mv",陈小云爱人跟人走
 http://vd4.bdstatic.com/mda-jgvqig36bu4rc0ej/sc/mda-jgvqig36bu4rc0ej.mp4
-#EXTINF:-1 group-title="mv",庄振凯八字命
-http://vd2.bdstatic.com/mda-jj64e1kixdr93ycn/mda-jj64e1kixdr93ycn.mp4
 #EXTINF:-1 group-title="mv",江蕙梦中的情话
 http://vd2.bdstatic.com/mda-ji4rwrwg7fijyqkh/mda-ji4rwrwg7fijyqkh.mp4
 #EXTINF:-1 group-title="mv",小凤凤爱情一阵风
@@ -1359,8 +1275,6 @@ http://vd2.bdstatic.com/mda-iftyuk6tjcxrm53p/sc/mda-iftyuk6tjcxrm53p.mp4
 http://vd4.bdstatic.com/mda-jk0m1rgje4eh01cw/hd/mda-jk0m1rgje4eh01cw.mp4
 #EXTINF:-1 group-title="mv",陈百潭初恋
 http://vd4.bdstatic.com/mda-jk22i7yt5vyjbgwt/hd/mda-jk22i7yt5vyjbgwt.mp4
-#EXTINF:-1 group-title="mv",陈小云烧酒话
-http://vd2.bdstatic.com/mda-jk132y7nmerfcd1u/mda-jk132y7nmerfcd1u.mp4
 #EXTINF:-1 group-title="mv",翁立友坚持
 http://vd2.bdstatic.com/mda-ji4uxxfqu5tgr7c3/mda-ji4uxxfqu5tgr7c3.mp4
 #EXTINF:-1 group-title="mv",翁立友男人伤
@@ -1379,8 +1293,6 @@ http://vd3.bdstatic.com/mda-im9gh6d15m05zu9p/sc/mda-im9gh6d15m05zu9p.mp4
 http://vd3.bdstatic.com/mda-ijfekw4yxergj9ak/sc/mda-ijfekw4yxergj9ak.mp4
 #EXTINF:-1 group-title="mv",翁立友我问天
 http://vd4.bdstatic.com/mda-im9gwdckyxiq5ab6/sc/mda-im9gwdckyxiq5ab6.mp4
-#EXTINF:-1 group-title="mv",翁立友我问天
-http://vd2.bdstatic.com/mda-ji4scky7w2tb7hnb/sc/mda-ji4scky7w2tb7hnb.mp4
 #EXTINF:-1 group-title="mv",翁立友行棋
 http://vd2.bdstatic.com/mda-ji4w8pcxse8taw5b/sc/mda-ji4w8pcxse8taw5b.mp4
 #EXTINF:-1 group-title="mv",翁立友情缘路
@@ -1445,8 +1357,6 @@ http://vd1.bdstatic.com/mda-hgmk00ncqxvvix0v/mda-hgmk00ncqxvvix0v.mp4
 http://jsmov2.a.yximgs.com:80/upic/2019/12/23/16/BMjAxOTEyMjMxNjA2NTVfMTU0MDc1NjUwOF8yMDgzNzIyNjQ4Ml8yXzM=_b_Bb25f4d256d6e5bfd0cbd38d3c2324689.mp4
 #EXTINF:-1 group-title="mv",一暝三冬
 http://jsmov2.a.yximgs.com:80/upic/2019/12/24/23/BMjAxOTEyMjQyMzQ1MDdfMTU0MDc1NjUwOF8yMDg5MTYxODE5MF8yXzM=_b_Bc77d889c7e0d63278485e6c22800c903.mp4
-#EXTINF:-1 group-title="mv",回头路
-http://jsmov2.a.yximgs.com:80/upic/2019/12/23/04/BMjAxOTEyMjMwNDMzMDBfMTU0MDc1NjUwOF8yMDgyMzMyMTIxNV8yXzM=_b_Bd3c670c9922835d2c12d0ee39a605219.mp4
 #EXTINF:-1 group-title="mv",追光者
 https://vd3.bdstatic.com/mda-jm9pesj1uis5fssj/hd/mda-jm9pesj1uis5fssj.mp4?pd=20&vt=1
 #EXTINF:-1 group-title="mv",体面
@@ -1459,8 +1369,6 @@ https://vdse.bdstatic.com/971347deaddd6fdb5ada6e87e4722ece.mp4?authorization=bce
 https://vd3.bdstatic.com/mda-ife08h4xpq85sg65/logo/hd/mda-ife08h4xpq85sg65.mp4?pd=19&vt=1
 #EXTINF:-1 group-title="mv",凉凉张碧晨杨宗纬
 https://vdse.bdstatic.com//56bc61cb4f9d080708a7e74647a1c2b2.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T15%3A48%3A39Z%2F-
-#EXTINF:-1 group-title="mv",知否知否
-http://vd3.bdstatic.com/mda-imnj0y8p1qrw232x/hd/mda-imnj0y8p1qrw232x.mp4?pd=19&vt=1
 #EXTINF:-1 group-title="mv",纸短情长
 https://vdse.bdstatic.com//e214194bf6de7f598b9873619b691fa6.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T13%3A26%3A53Z%2F-1%2Fhost
 #EXTINF:-1 group-title="mv",一曲相思
@@ -1523,8 +1431,6 @@ https://vdse.bdstatic.com/20e606730cb53b91bd4a4d2b0323e563.mp4?authorization=bce
 https://vdse.bdstatic.com//650fda26067e619a8632b173052b3a08.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2020-01-31T14%3A25%3A59Z%2F-1%2Fhost
 #EXTINF:-1 group-title="mv",风筝误
 https://vdse.bdstatic.com/c331feb0b4730b05d03793ffc024e62a.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2017-05-11T09%3A02%3A31Z%2F-1%2F
-#EXTINF:-1 group-title="mv",让我留在你身边
-https://vd3.bdstatic.com/mda-ka937fuwjq5nc1hd/hd/mda-ka937fuwjq5nc1hd.mp4?pd=19&vt=1
 #EXTINF:-1 group-title="mv",我曾
 https://vd3.bdstatic.com/mda-jjm8i93paakzz8yj/hd/mda-jjm8i93paakzz8yj.mp4?pd=20&vt=1
 #EXTINF:-1 group-title="mv",我愿意平凡的陪在你身旁
@@ -1955,8 +1861,6 @@ http://gctxyc.liveplay.myqcloud.com/gc/hnttpgsz_1_md.m3u8
 http://gccncc.v.wscdns.com/gc/hnttlhzjd_1/index.m3u8
 #EXTINF:-1 group-title="景区",乐山大佛全景
 http://gctxyc.liveplay.myqcloud.com/gc/lsdfgfl_1_md.m3u8
-#EXTINF:-1 group-title="景区",中间水泡
-http://gcksc.v.kcdnvTV.com/gc/lhszjsp_1/index.m3u8
 #EXTINF:-1 group-title="景区",山涧栈道
 http://gcbsc.v.live.baishancdnx.cn/gc/lhssjzd_1/index.m3u8
 #EXTINF:-1 group-title="景区",印象大红袍
@@ -1977,8 +1881,6 @@ http://gcalic.v.myalicdn.com/gc/pshdxg02_1/index.m3u8
 http://gccncc.v.wscdns.com/gc/tyhjtynl_1/index.m3u8
 #EXTINF:-1 group-title="景区",天涯石
 http://gcbsc.v.live.baishancdnx.cn/gc/tyhjtys_1/index.m3u8
-#EXTINF:-1 group-title="景区",南天一柱
-http://gcksc.v.kcdnvTV.com/gc/tyhjntyz_1/index.m3u8
 #EXTINF:-1 group-title="景区",日月石
 http://gctxyc.liveplay.myqcloud.com/gc/tyhjrys_1_md.m3u8
 #EXTINF:-1 group-title="景区",六角亭瀑布
@@ -2257,12 +2159,8 @@ http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 http://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
 #EXTINF:-1 group-title="其他",Darcizzle电视
 http://30a-tv.com/darcizzle.m3u8
-#EXTINF:-1 group-title="其他",Docurama电视
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 #EXTINF:-1 group-title="其他",Music电视
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 group-title="其他",CON电视
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 #EXTINF:-1 group-title="其他",Dance电视
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
 #EXTINF:-1 group-title="其他",北京财经
@@ -2379,16 +2277,12 @@ http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lcgg.m3u8
 http://lichuan.live.tempsource.cjyun.org/videotmp/s10093-lczh.m3u8
 #EXTINF:-1 group-title="其他",和政电视台
 http://117.156.28.119/270000001111/1110000149/index.m3u8
-#EXTINF:-1 group-title="其他",咸宁综合频道
-http://xianning.live.cjyun.org/video/s10140-XNTV-1/index.m3u8
 #EXTINF:-1 group-title="其他",大冶一套
 http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC1T.m3u8
 #EXTINF:-1 group-title="其他",大冶二套
 http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8
 #EXTINF:-1 group-title="其他",大悟综合
 http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
-#EXTINF:-1 group-title="其他",孝感公共频道
-http://xiaogan.live.cjyun.org/video/s10139-shpd/index.m3u8
 #EXTINF:-1 group-title="其他",安阳新闻综合
 http://hntvpull.8686c.com/wxtv/AY-1/playlist.m3u8
 #EXTINF:-1 group-title="其他",宜兴新闻频道
@@ -2407,14 +2301,6 @@ http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_247.m3u8
 #EXTINF:-1 group-title="其他",巴中综合频道
 http://30814.hlsplay.aodianyun.com/lms_30814/tv_channel_246.m3u8
-#EXTINF:-1 group-title="其他",应城新闻综合
-http://yingcheng.live.cjyun.org/video/s10135-YCZH/index.m3u8
-#EXTINF:-1 group-title="其他",应城生活频道
-http://yingcheng.live.cjyun.org/video/s10135-YCDJ/index.m3u8
-#EXTINF:-1 group-title="其他",延安1台
-http://stream2.liveyun.hoge.cn/YATV1/sd/live.m3u8
-#EXTINF:-1 group-title="其他",延安2台
-http://stream2.liveyun.hoge.cn/YATV2/sd/live.m3u8
 #EXTINF:-1 group-title="其他",彭水文化旅游
 http://pengshuilive.cbg.cn/pengshui02.m3u8
 #EXTINF:-1 group-title="其他",惠州新闻综合
@@ -2431,12 +2317,8 @@ http://dslive.grtn.cn/hyzh/sd/live.m3u8
 http://117.156.28.119/270000001111/1110000145/index.m3u8
 #EXTINF:-1 group-title="其他",炫动卡通
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
-#EXTINF:-1 group-title="其他",秭归新闻综合
-http://zigui.live.cjyun.org/video/s10111-ZGTV1.m3u8
 #EXTINF:-1 group-title="其他",积石山电视台
 http://117.156.28.119/270000001111/1110000152/index.m3u8
-#EXTINF:-1 group-title="其他",红安综合
-http://hongan.live.cjyun.org/video/s10063-HAZH.m3u8
 #EXTINF:-1 group-title="其他",肃州电视台
 http://117.156.28.119/270000001111/1110000123/index.m3u8
 #EXTINF:-1 group-title="其他",芜湖教育频道
@@ -2449,10 +2331,6 @@ http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
 http://hls.hsrtv.cn/hls/hstv2.m3u8
 #EXTINF:-1 group-title="其他",衡水新闻综合
 http://hls.hsrtv.cn/hls/hstv1.m3u8
-#EXTINF:-1 group-title="其他",襄阳公共
-http://xiangyang.live.cjyun.org/video/s10125-education_hd/index.m3u8
-#EXTINF:-1 group-title="其他",襄阳综合
-http://xiangyang.live.cjyun.org/video/s10125-news_hd/index.m3u8
 #EXTINF:-1 group-title="其他",西安资讯
 http://stream2.xiancity.cn/xatv3/sd/live.m3u8
 #EXTINF:-1 group-title="其他",西安音乐综艺
@@ -2469,8 +2347,6 @@ http://117.156.28.119/270000001111/1110000147/index.m3u8
 http://117.156.28.119/270000001111/1110000146/index.m3u8
 #EXTINF:-1 group-title="其他",鹤峰综合频道
 http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv.m3u8
-#EXTINF:-1 group-title="其他",黄冈公共频道
-http://huanggang.live.cjyun.org/video/s10120-xwgg.m3u8
 #EXTINF:-1 group-title="其他",黔西南公共
 http://live.qxndt.com/channel3/sd/live.m3u8
 #EXTINF:-1 group-title="其他",黔西南综合
@@ -2479,8 +2355,6 @@ http://live.qxndt.com/channel2/sd/live.m3u8
 http://stream.lytv.net.cn/1/sd/live.m3u8
 #EXTINF:-1 group-title="其他",陕西卫视
 http://223.82.250.72/live/shanxi1stv/1.m3u8
-#EXTINF:-1 group-title="其他",长沙政法
-http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 #EXTINF:-1 group-title="其他",张家界2台
 http://stream.zjjrtv.com/zjjtv2/hd/live.m3u8
 #EXTINF:-1 group-title="其他",荆门新闻
@@ -2489,8 +2363,6 @@ http://live.jmtv.com.cn/xwzh/sd/live.m3u8
 http://live.jmtv.com.cn/ggsh/sd/live.m3u8
 #EXTINF:-1 group-title="其他",荆门公共农谷
 http://live.jmtv.com.cn/ngpd/sd/live.m3u8
-#EXTINF:-1 group-title="其他",襄阳经济
-http://xiangyang.live.cjyun.org/video/s10125-society_hd/index.m3u8
 #EXTINF:-1 group-title="其他",江门综合
 http://dslive.grtn.cn/jmzh/sd/live.m3u8
 #EXTINF:-1 group-title="其他",汕头综合
@@ -2595,8 +2467,6 @@ http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
 http://pengshuilive.cbg.cn/pengshui01.m3u8
 #EXTINF:-1 group-title="其他",三明新闻综合
 http://ls.qingting.fm/live/4885.m3u8
-#EXTINF:-1 group-title="其他",三明公共频道
-http://xinl.live.maxtv.cn/live/zb/playlist.m3u8
 #EXTINF:-1 group-title="其他",新罗电视一套
 http://stream.lyxltv.com/xltv/sd/live.m3u8
 #EXTINF:-1 group-title="其他",新罗电视二套
@@ -2635,24 +2505,8 @@ http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227191/index.m3u8
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 group-title="其他",荆州新闻
 http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221227037/index.m3u8
-#EXTINF:-1 group-title="其他",孝感新闻综合
-http://xiaogan.live.cjyun.org/video/s10139-xg/index.m3u8
-#EXTINF:-1 group-title="其他",黄冈新闻频道
-http://huanggang.live.cjyun.org/video/s10120-xwzh.m3u8
-#EXTINF:-1 group-title="其他",孝昌新闻党建
-http://xiaochang.live.cjyun.org/video/s10128-xcxw/index.m3u8
-#EXTINF:-1 group-title="其他",孝昌生活频道
-http://xiaochang.live.cjyun.org/video/s10128-xcsh/index.m3u8
-#EXTINF:-1 group-title="其他",罗田综合
-http://luotian.live.cjyun.org/video/s10013-LTZH/index.m3u8
-#EXTINF:-1 group-title="其他",罗田旅游
-http://luotian.live.cjyun.org/video/s10013-LTLY/index.m3u8
 #EXTINF:-1 group-title="其他",红安综合
 http://stream.zzgd.tv/1/sd/live.m3u8
-#EXTINF:-1 group-title="其他",应城新闻综合
-http://stream.dybtv.com/yssh/GQ/live.m3u8
-#EXTINF:-1 group-title="其他",应城生活频道
-http://stream.dybtv.com/xwzh/GQ/live.m3u8
 #EXTINF:-1 group-title="其他",嘉鱼新闻综合
 http://jiayu.live.tempsource.cjyun.org/videotmp/s10131-jyzh.m3u8
 #EXTINF:-1 group-title="其他",广水新闻频道
@@ -2669,8 +2523,6 @@ http://ls.qingting.fm/live/2227017.m3u8
 http://ls.qingting.fm/live/28140.m3u8
 #EXTINF:-1 group-title="其他",南京少儿
 http://ls.qingting.fm/live/3701149.m3u8
-#EXTINF:-1 group-title="其他",张家港社会生活
-http://stream1.ahrtv.cn/xspsgb/sd/live.m3u8
 #EXTINF:-1 group-title="其他",睢宁资讯频道
 http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
 #EXTINF:-1 group-title="其他",滨海新闻综合
@@ -2681,8 +2533,6 @@ http://183.207.249.15/PLTV/3/224/3221225634/index.m3u8
 http://ls.qingting.fm/live/273.m3u8
 #EXTINF:-1 group-title="其他",吉林教育
 http://ls.qingting.fm/live/2131011.m3u8
-#EXTINF:-1 group-title="其他",通化新闻
-http://ls.qingting.fm/live/60808.m3u8
 #EXTINF:-1 group-title="其他",吉林市新闻综合
 http://ls.qingting.fm/live/334.m3u8
 #EXTINF:-1 group-title="其他",农安新闻综合

@@ -1,5 +1,5 @@
 # 直播源
-> 央视、少儿、卫视、影视、轮播、爱TV、4k、央视蓝光、卫视蓝光、求索TV、黑莓TV、NewTV、CIBNTV、SiTV、Hot、 mv、购物、景区、其他
+> 央视、少儿、卫视、影视、轮播、爱TV、4k、央视蓝光、卫视蓝光、求索TV、黑莓TV、NewTV、SiTV、Hot、 mv、购物、景区、其他
 
 - zby.txt
     1. [zby.txt][github-txt]

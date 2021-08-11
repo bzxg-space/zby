@@ -215,20 +215,23 @@ BEST电影,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs
 精彩电影4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 轮播
 欢笑剧场4K,http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-【陈翔六点半】咻咻咻~6点半加速,http://tx2play1.douyucdn.cn/2132902rMfyxirEj.m3u8
-【开心情景剧】超清去片头片尾,http://tx2play1.douyucdn.cn/6648727rufz9EgZB.m3u8
-【周星驰】星爷 华语 经典 电影 神乐,http://tx2play1.douyucdn.cn/122402rK7MO9bXSq.m3u8
-【周星驰】星爷 华语 经典 电影 神乐,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
-【神乐】华语 经典 电影 刘德华 周星驰,http://tx2play1.douyucdn.cn/85894rmovieChow.m3u8
-【神乐】华语 经典 电影 刘德华 周星驰,http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
-【电影可乐】 欧美 电影 科幻 经典 动作,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
-【香港赌片】喜剧、黑帮、动作、武侠、经典,http://tx2play1.douyucdn.cn/315457r18ZXdyKZ6.m3u8
-【华语厅】经典 60帧 周星驰 刘德华,http://tx2play1.douyucdn.cn/925724rYNq8Vzs5L.m3u8
-【动漫】热血 木叶忍者 草帽路飞 青春,http://tx2play1.douyucdn.cn/206858rtesHKjl.m3u8
-【话事人】粤语【周星驰】【林正英】,http://tx2play1.douyucdn.cn/5033502rKAhPWDWm.m3u8
-【超清1】经典港剧天地,http://tx2play1.douyucdn.cn/4290711r58wJsHRc.m3u8
-【贝爷影厅】经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/252802rsTlrllXss.m3u8
-【s1134】经典 科幻 动作 灾难,http://tx2play1.douyucdn.cn/248753rC2Zp89Lu4.m3u8
+【陈翔六点半】咻咻咻~6点半加速,http://tx2play1.douyucdn.cn/2132902r2DTRXnYD.xs
+【开心情景剧】超清去片头片尾,http://tx2play1.douyucdn.cn/6648727rufz9EgZB.xs
+【林正英】僵尸 女鬼 弹幕 护体,http://tx2play1.douyucdn.cn/218859r7wrRDulDC.xs
+【电影可乐】 欧美 电影 科幻 经典 动作,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
+【香港赌片】喜剧、黑帮、动作、武侠、经典,http://tx2play1.douyucdn.cn/315457rlhQDSs2yk.xs
+【华语厅】经典 60帧 周星驰 刘德华,http://tx2play1.douyucdn.cn/925724rWiNqqFYra.xs
+【动漫】热血 木叶忍者 草帽路飞 青春,http://tx2play1.douyucdn.cn/206858rtesHKjl.xs
+【话事人】粤语【周星驰】【林正英】,http://tx2play1.douyucdn.cn/5033502rrYtnBjpx.xs
+【超清1】经典港剧天地,http://tx2play1.douyucdn.cn/4290711r58wJsHRc.xs
+【贝爷影厅】经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/252802ryboKvsRTt.xs
+【s1134】经典 科幻 动作 灾难,http://tx2play1.douyucdn.cn/248753rn5NROcDXx.xs
+【冰冰】恐怖/经典/搞笑陪你一起,http://tx2play1.douyucdn.cn/74374rP9cjM7e5jr.xs
+【Liz陪看】科幻 喜剧 动作,http://tx2play1.douyucdn.cn/7254536riuyQHxAL.xs
+【雍正】人无伤虎意,虎有吃人心,http://tx2play1.douyucdn.cn/9650836rcH7Av6TS.xs
+【神乐】华语 经典 电影 沈腾 周星驰,http://tx2play1.douyucdn.cn/85894rmovieChow.xs
+【喜剧】经典喜剧专场,http://tx2play1.douyucdn.cn/9650887rAf6NSuep.xs
+✨曾小贤✨胡一菲✨第三季✨第一季✨,http://tx2play1.douyucdn.cn/2838296ra0eBVzI1.xs
 爱TV
 爱江湖,http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 爱军武,http://101.71.255.229:6610/zjhs/2/10119/index.m3u8?virtualDomain=zjhs.live_hls.zte.com

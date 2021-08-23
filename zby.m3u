@@ -7,6 +7,12 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV1综合HD
 http://39.134.66.66/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1综合HD
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226226/1.m3u8
+#EXTINF:-1 group-title="央视",CCTV1综合HD
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV1综合HD
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225630/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2财经
 http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 #EXTINF:-1 group-title="央视",CCTV2财经
@@ -15,6 +21,12 @@ http://39.134.66.66/PLTV/88888888/224/3221225599/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225696/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV2财经HD
 http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 group-title="央视",CCTV2财经HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV2财经HD
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv2hd/3000/01.m3u8
+#EXTINF:-1 group-title="央视",CCTV2财经HD
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225619/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV3综艺
 http://ivi.bupt.edu.cn/hls/cctv3.m3u8
 #EXTINF:-1 group-title="央视",CCTV3综艺
@@ -53,6 +65,8 @@ http://223.110.243.172/PLTV/3/224/3221227166/index.m3u8
 http://223.110.245.170/PLTV/3/224/3221227166/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5体育HD
 http://223.110.243.136/PLTV/3/224/3221227478/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV5体育HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+体育赛事HD
 http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV5+体育赛事HD
@@ -61,6 +75,8 @@ http://39.134.66.66/PLTV/88888888/224/3221225690/index.m3u8
 http://223.110.243.139/PLTV/3/224/3221225548/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV6电影HD
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 group-title="央视",CCTV6电影HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv6_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV6电影HD
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv6_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV6电影HD
@@ -79,18 +95,24 @@ http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
 http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV7国防军事
 http://39.134.66.66/PLTV/88888888/224/3221225489/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV7国防军事
+http://cctvalih5ca.v.myalicdn.com/live/cctv7_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV8电视剧
 https://cctvcnch5ca.v.wscdns.com/live/cctv8_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV8电视剧
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv8_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV8电视剧
 http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV8电视剧
+http://cctvalih5ca.v.myalicdn.com/live/cctv8_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV8电视剧HD
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV8电视剧HD
 http://39.134.66.66/PLTV/88888888/224/3221225788/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV9记录
 http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 group-title="央视",CCTV9记录
+http://cctvalih5ca.v.myalicdn.com/live/cctv9_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV9记录HD
 http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV9记录HD
@@ -107,20 +129,28 @@ http://39.134.66.66/PLTV/88888888/224/3221225520/index.m3u8
 http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV10科教HD
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/cctv10hd/2300000/mnf.m3u8
+#EXTINF:-1 group-title="央视",CCTV10科教HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV11戏曲
 http://ivi.bupt.edu.cn/hls/cctv11.m3u8
 #EXTINF:-1 group-title="央视",CCTV11戏曲
 http://39.134.66.66/PLTV/88888888/224/3221225517/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV12科教
+#EXTINF:-1 group-title="央视",CCTV11戏剧
+http://cctvalih5ca.v.myalicdn.com/live/cctv11_2/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV12社会与法
 http://ivi.bupt.edu.cn/hls/cctv12.m3u8
-#EXTINF:-1 group-title="央视",CCTV12科教
+#EXTINF:-1 group-title="央视",CCTV12社会与法
 http://39.134.66.66/PLTV/88888888/224/3221225518/index.m3u8
-#EXTINF:-1 group-title="央视",CCTV12科教HD
+#EXTINF:-1 group-title="央视",CCTV12社会与法HD
 http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 group-title="央视",CCTV12社会与法HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv12_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV13新闻
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv13_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV13新闻
 http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 group-title="央视",CCTV13新闻
+http://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV14少儿
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV14少儿
@@ -129,18 +159,26 @@ http://39.134.66.66/PLTV/88888888/224/3221225516/index.m3u8
 http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
 #EXTINF:-1 group-title="央视",CCTV14少儿HD
 http://39.134.66.66/PLTV/88888888/224/3221225557/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV14少儿HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv14_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV15音乐
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctv15_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV15音乐
 http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV15音乐
 http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+#EXTINF:-1 group-title="央视",CCTV15音乐
+http://cctvalih5ca.v.myalicdn.com/live/cctv15_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV17农业农村
 http://ivi.bupt.edu.cn/hls/cctv17.m3u8
 #EXTINF:-1 group-title="央视",CCTV17农业农村
 http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV17农业农村HD
 http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
+#EXTINF:-1 group-title="央视",CCTV17农业农村HD
+http://cctvalih5ca.v.myalicdn.com/live/cctv17_2/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4K
+https://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/ebc22b913d104ccfb153dc09850e0486/4000.m3u8
 #EXTINF:-1 group-title="少儿",CCTV14少儿
 https://cctvtxyh5ca.liveplay.myqcloud.com/live/cctvchild_2/index.m3u8
 #EXTINF:-1 group-title="少儿",CCTV14少儿
@@ -191,6 +229,8 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225711/index.m3u8?
 http://ivi.bupt.edu.cn/hls/hunantv.m3u8
 #EXTINF:-1 group-title="卫视",湖南卫视
 http://223.110.243.173/PLTV/3/224/3221227220/index.m3u8
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 group-title="卫视",湖南卫视HD
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
 #EXTINF:-1 group-title="卫视",浙江卫视
@@ -423,40 +463,212 @@ http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.z
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 group-title="轮播",欢笑剧场4K
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 group-title="轮播",【陈翔六点半】咻咻咻~6点半加速
-http://tx2play1.douyucdn.cn/2132902r2DTRXnYD.xs
-#EXTINF:-1 group-title="轮播",【开心情景剧】超清去片头片尾
+#EXTINF:-1 group-title="轮播",陈翔六点半
+http://tx2play1.douyucdn.cn/live/2132902rRQ5ehdor.xs
+#EXTINF:-1 group-title="轮播",陈翔六点半
+http://121.51.249.53/tx.hls.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="轮播",陈翔六点半
+http://ws.flv.huya.com/src/1352054947-1352054947-5807031779760013312-2704233350-10057-A-0-1.flv
+#EXTINF:-1 group-title="轮播",开心情景剧
 http://tx2play1.douyucdn.cn/6648727rufz9EgZB.xs
-#EXTINF:-1 group-title="轮播",【林正英】僵尸 女鬼 弹幕 护体
+#EXTINF:-1 group-title="轮播",林正英僵尸
 http://tx2play1.douyucdn.cn/218859r7wrRDulDC.xs
+#EXTINF:-1 group-title="轮播",林正英僵尸鬼片
+http://tx2play1.douyucdn.cn/live/9275635rggcVOC6m.xs
 #EXTINF:-1 group-title="轮播",【电影可乐】 欧美 电影 科幻 经典 动作
 http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
-#EXTINF:-1 group-title="轮播",【香港赌片】喜剧、黑帮、动作、武侠、经典
-http://tx2play1.douyucdn.cn/315457rlhQDSs2yk.xs
-#EXTINF:-1 group-title="轮播",【华语厅】经典 60帧 周星驰 刘德华
-http://tx2play1.douyucdn.cn/925724rWiNqqFYra.xs
-#EXTINF:-1 group-title="轮播",【动漫】热血 木叶忍者 草帽路飞 青春
+#EXTINF:-1 group-title="轮播",香港赌片 吃米滴虫
+http://tx2play1.douyucdn.cn/live/315457rKVDx61O3D.xs
+#EXTINF:-1 group-title="轮播",热血动漫
 http://tx2play1.douyucdn.cn/206858rtesHKjl.xs
-#EXTINF:-1 group-title="轮播",【话事人】粤语【周星驰】【林正英】
-http://tx2play1.douyucdn.cn/5033502rrYtnBjpx.xs
-#EXTINF:-1 group-title="轮播",【超清1】经典港剧天地
+#EXTINF:-1 group-title="轮播",经典港剧天地
 http://tx2play1.douyucdn.cn/4290711r58wJsHRc.xs
-#EXTINF:-1 group-title="轮播",【贝爷影厅】经典 科幻 动作 灾难 巨兽
+#EXTINF:-1 group-title="轮播",贝爷影厅
 http://tx2play1.douyucdn.cn/252802ryboKvsRTt.xs
-#EXTINF:-1 group-title="轮播",【s1134】经典 科幻 动作 灾难
-http://tx2play1.douyucdn.cn/248753rn5NROcDXx.xs
-#EXTINF:-1 group-title="轮播",【冰冰】恐怖/经典/搞笑陪你一起
+#EXTINF:-1 group-title="轮播",【冰冰】恐怖/经典/搞笑
 http://tx2play1.douyucdn.cn/74374rP9cjM7e5jr.xs
-#EXTINF:-1 group-title="轮播",【Liz陪看】科幻 喜剧 动作
-http://tx2play1.douyucdn.cn/7254536riuyQHxAL.xs
-#EXTINF:-1 group-title="轮播",【雍正】人无伤虎意,虎有吃人心
-http://tx2play1.douyucdn.cn/9650836rcH7Av6TS.xs
-#EXTINF:-1 group-title="轮播",【神乐】华语 经典 电影 沈腾 周星驰
-http://tx2play1.douyucdn.cn/85894rmovieChow.xs
-#EXTINF:-1 group-title="轮播",【喜剧】经典喜剧专场
-http://tx2play1.douyucdn.cn/9650887rAf6NSuep.xs
-#EXTINF:-1 group-title="轮播",✨曾小贤✨胡一菲✨第三季✨第一季✨
+#EXTINF:-1 group-title="轮播",爱情公寓
+http://tx2play1.douyucdn.cn/live/4587723rXXOFfYfb.xs
+#EXTINF:-1 group-title="轮播",爱情公寓
+http://tx2play1.douyucdn.cn/live/9638983rxIqZcW50.xs
+#EXTINF:-1 group-title="轮播",爱情公寓1＆3
 http://tx2play1.douyucdn.cn/2838296ra0eBVzI1.xs
+#EXTINF:-1 group-title="轮播",爱情公寓1＆3
+http://tx2play1.douyucdn.cn/live/6863367rKhtMDkg8.xs
+#EXTINF:-1 group-title="轮播",爱情公寓1＆3
+http://tx2play1.douyucdn.cn/live/5062195rTRD0MZXe.xs
+#EXTINF:-1 group-title="轮播",华语经典
+http://tx2play1.douyucdn.cn/live/85894rmovieChow.xs
+#EXTINF:-1 group-title="轮播",粤语原声 经典喜剧动作
+http://tx2play1.douyucdn.cn/live/6566671rtB7hnzM9.xs
+#EXTINF:-1 group-title="轮播",欧美大片
+http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.xs
+#EXTINF:-1 group-title="轮播",邵氏影院
+http://tx2play1.douyucdn.cn/live/4246519rosxSsVn4.xs
+#EXTINF:-1 group-title="轮播",贝尔求生
+http://tx2play1.douyucdn.cn/live/454867rgOgz90mv1.xs
+#EXTINF:-1 group-title="轮播",荒野求生
+http://tx2play1.douyucdn.cn/live/1339207rjWUwGcqS.xs
+#EXTINF:-1 group-title="轮播",纪录片
+http://tx2play1.douyucdn.cn/live/4360438rtgjIMfeP.xs
+#EXTINF:-1 group-title="轮播",港剧直播
+http://tx2play1.douyucdn.cn/live/4549169rv4OKGN7X.xs
+#EXTINF:-1 group-title="轮播",丧尸鬼片恐怖
+http://tx2play1.douyucdn.cn/live/96577rvngpvSetg5.xs
+#EXTINF:-1 group-title="轮播",带你看大片
+http://tx2play1.douyucdn.cn/live/2758565rTRfItrI5.xs
+#EXTINF:-1 group-title="轮播",素颜话多
+http://tx2play1.douyucdn.cn/live/8861179rOP5S3GA9.xs
+#EXTINF:-1 group-title="轮播",海绵与大星
+http://tx2play1.douyucdn.cn/live/2250349rXUmshhVo.xs
+#EXTINF:-1 group-title="轮播",一起看恐怖片
+http://tx2play1.douyucdn.cn/live/9412287rEl3UrHgL.xs
+#EXTINF:-1 group-title="轮播",刘能赵四谢广坤
+http://tx2play1.douyucdn.cn/live/9356342rcsUTq3S2.xs
+#EXTINF:-1 group-title="轮播",喜剧科幻
+http://tx2play1.douyucdn.cn/live/6537888rtsthXrZB.xs
+#EXTINF:-1 group-title="轮播",蓝光高分
+http://tx2play1.douyucdn.cn/live/52787r8ZChaEsamQ.xs
+#EXTINF:-1 group-title="轮播",全新片单
+http://tx2play1.douyucdn.cn/live/3637778raLSXdOdu.xs
+#EXTINF:-1 group-title="轮播",九亿少男的梦
+http://tx2play1.douyucdn.cn/live/1409682rxoaqh3wL.xs
+#EXTINF:-1 group-title="轮播",凤凰堂
+http://tx2play1.douyucdn.cn/live/7292330r1Nx5c03n.xs
+#EXTINF:-1 group-title="轮播",果子哥哥
+http://tx2play1.douyucdn.cn/live/9372950rjHHdvcjD.xs
+#EXTINF:-1 group-title="轮播",片荒的日子
+http://tx2play1.douyucdn.cn/live/4258555r3isvDdlq.xs
+#EXTINF:-1 group-title="轮播",最新视频
+http://tx2play1.douyucdn.cn/live/1557505rl07h2Tx1.xs
+#EXTINF:-1 group-title="轮播",功夫巨制
+http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.xs
+#EXTINF:-1 group-title="轮播",港式恐怖
+http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.xs
+#EXTINF:-1 group-title="轮播",军旅动作
+http://tx2play1.douyucdn.cn/live/431460ram1kDKhoD.xs
+#EXTINF:-1 group-title="轮播",星爷经典
+http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.xs
+#EXTINF:-1 group-title="轮播",童年回忆
+http://tx2play1.douyucdn.cn/live/8915074rZVY64azk.xs
+#EXTINF:-1 group-title="轮播",IMAX影厅
+http://tx2play1.douyucdn.cn/live/4332rdOzEliVxLwT.xs
+#EXTINF:-1 group-title="轮播",爆笑解说
+http://tx2play1.douyucdn.cn/live/2660125rdHI02Szo.xs
+#EXTINF:-1 group-title="轮播",差点红了
+http://tx2play1.douyucdn.cn/live/9348469r09VYKrya.xs
+#EXTINF:-1 group-title="轮播",看完一部电影
+http://tx2play1.douyucdn.cn/live/8768613rx8gBvkaN.xs
+#EXTINF:-1 group-title="轮播",跨次元的舞姬
+http://tx2play1.douyucdn.cn/live/8759139rxwQHuImX.xs
+#EXTINF:-1 group-title="轮播",神奇破案
+http://tx2play1.douyucdn.cn/live/7493575rTZ8N4pNM.xs
+#EXTINF:-1 group-title="轮播",一分钟了解知识
+http://tx2play1.douyucdn.cn/live/1449125rfyPkYBUO.xs
+#EXTINF:-1 group-title="轮播",喜剧电影
+http://tx2play1.douyucdn.cn/live/9292492rD1OA5E7c.xs
+#EXTINF:-1 group-title="轮播",释压甩负
+http://tx2play1.douyucdn.cn/live/7971641rMS8R2qFF.xs
+#EXTINF:-1 group-title="轮播",Kpop女团
+http://tx2play1.douyucdn.cn/live/329667r0XlKapshf.xs
+#EXTINF:-1 group-title="轮播",非一般的经典
+http://tx2play1.douyucdn.cn/live/3705472rqFahWXWX.xs
+#EXTINF:-1 group-title="轮播",经典影视剧
+http://tx2play1.douyucdn.cn/live/7029806rKHYVPNmk.xs
+#EXTINF:-1 group-title="轮播",伯乐说电影
+http://tx2play1.douyucdn.cn/live/9386057rwqdvXVhp.xs
+#EXTINF:-1 group-title="轮播",动漫花园
+http://tx2play1.douyucdn.cn/live/426517rlnQshknm8.xs
+#EXTINF:-1 group-title="轮播",经典科幻灾难
+http://tx2play1.douyucdn.cn/live/248753rQinbWWK7s.xs
+#EXTINF:-1 group-title="轮播",在线普法
+http://tx2play1.douyucdn.cn/live/1109218rCnSqwEDK.xs
+#EXTINF:-1 group-title="轮播",片源多多
+http://tx2play1.douyucdn.cn/live/7476264rNB2FQMG3.xs
+#EXTINF:-1 group-title="轮播",搞笑影视综艺
+http://tx2play1.douyucdn.cn/live/8657920rofb0PI7l.xs
+#EXTINF:-1 group-title="轮播",音乐演唱会
+http://tx2play1.douyucdn.cn/live/7537296rTdKDixQ0.xs
+#EXTINF:-1 group-title="轮播",动漫直播
+http://tx2play1.douyucdn.cn/live/1487654rmWxDu9Fk.xs
+#EXTINF:-1 group-title="轮播",有点小幸运
+http://tx2play1.douyucdn.cn/live/7270927reXZEug2P.xs
+#EXTINF:-1 group-title="轮播",解说柯南
+http://tx2play1.douyucdn.cn/live/9065082rOusNOVkL.xs
+#EXTINF:-1 group-title="轮播",韩国MV
+http://tx2play1.douyucdn.cn/live/231464ruiASM3G05.xs
+#EXTINF:-1 group-title="轮播",看美剧
+http://tx2play1.douyucdn.cn/live/8869614r4AGJh8kM.xs
+#EXTINF:-1 group-title="轮播",高分影视
+http://tx2play1.douyucdn.cn/live/1735337rqGMR7XZK.xs
+#EXTINF:-1 group-title="轮播",鹿鼎记天龙八部
+http://tx2play1.douyucdn.cn/live/9356350rkH3h49IK.xs
+#EXTINF:-1 group-title="轮播",进来看胡八一~
+http://tx2play1.douyucdn.cn/live/9292503r2AQAiBFE.xs
+#EXTINF:-1 group-title="轮播",吐槽吐槽
+http://tx2play1.douyucdn.cn/live/9236042rHy06YY1s.xs
+#EXTINF:-1 group-title="轮播",梁山好汉
+http://tx2play1.douyucdn.cn/live/6785471rIO0AGVOi.xs
+#EXTINF:-1 group-title="轮播",鬼片恐怖
+http://tx2play1.douyucdn.cn/live/2935323rnTpNsu74.xs
+#EXTINF:-1 group-title="轮播",经典大片
+http://tx2play1.douyucdn.cn/live/2793084rFV7D4nC0.xs
+#EXTINF:-1 group-title="轮播",热门影视剧
+http://tx2play1.douyucdn.cn/live/7971641rMS8R2qFF.xs
+#EXTINF:-1 group-title="轮播",开心锤锤
+http://tx2play1.douyucdn.cn/live/9018297rk5RTALOk.xs
+#EXTINF:-1 group-title="轮播",科比、乔丹去
+http://tx2play1.douyucdn.cn/live/8434598rYzMEkHWZ.xs
+#EXTINF:-1 group-title="轮播",雍一正
+http://tx2play1.douyucdn.cn/live/7672838r5lqbJaXN.xs
+#EXTINF:-1 group-title="轮播",很优美
+http://tx2play1.douyucdn.cn/live/252802ryboKvsRTt.xs
+#EXTINF:-1 group-title="轮播",悬疑都市
+http://tx2play1.douyucdn.cn/live/2337939rDh0pN10E.xs
+#EXTINF:-1 group-title="轮播",快进贱
+http://tx2play1.douyucdn.cn/live/7517784rNwUBBR8Q.xs
+#EXTINF:-1 group-title="轮播",悬疑犯罪录
+http://tx2play1.douyucdn.cn/live/9171887ru1D8lugi.xs
+#EXTINF:-1 group-title="轮播",恐怖电影 鬼片 僵尸
+http://tx2play1.douyucdn.cn/live/310926rbYqxgOzw6.xs
+#EXTINF:-1 group-title="轮播",恐怖灾难
+http://tx2play1.douyucdn.cn/live/263824rRfZVWVD72.xs
+#EXTINF:-1 group-title="轮播",罪案惊悚
+http://tx2play1.douyucdn.cn/live/610972rPQqAHiwaF.xs
+#EXTINF:-1 group-title="轮播",武林外传
+http://ws.flv.huya.com/src/1423782087-1423782087-6115097500295626752-2847687630-10057-A-0-1-imgplus.flv
+#EXTINF:-1 group-title="轮播",周星驰
+http://ws.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1-imgplus.flv
+#EXTINF:-1 group-title="轮播",林正英
+http://ws.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.flv
+#EXTINF:-1 group-title="轮播",成龙
+http://ws.flv.huya.com/src/1394565191-1394565191-5989611887484993536-2789253838-10057-A-0-1-imgplus.flv
+#EXTINF:-1 group-title="轮播",李连杰
+http://ws.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.flv
+#EXTINF:-1 group-title="轮播",吴京
+http://121.51.249.53/tx.hls.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="http://ws.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv",刘德华
+http://121.51.249.53/tx.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="http://ws.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv",刘德华
+http://ws.flv.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.flv
+#EXTINF:-1 group-title="http://ws.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv",甄子丹
+http://121.51.249.53/tx.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="http://ws.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv",甄子丹
+http://ws.flv.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1.flv
+#EXTINF:-1 group-title="http://ws.flv.huya.com/src/1524434090-1524434090-6547394561457520640-3048991636-10057-A-0-1.flv",周润发
+http://121.51.249.53/tx.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="http://ws.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv",沈腾
+http://121.51.249.53/tx.hls.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="http://ws.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv",沈腾
+http://ws.flv.huya.com/src/1524418085-1524418085-6547325820505948160-3048959626-10057-A-0-1.flv
+#EXTINF:-1 group-title="http://ws.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv",洪金宝
+http://121.51.249.53/tx.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="http://ws.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv",洪金宝
+http://ws.flv.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.flv
+#EXTINF:-1 group-title="http://ws.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv",徐峥
+http://121.51.249.53/tx.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="http://ws.flv.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1.flv",徐峥
+http://ws.flv.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.flv
 #EXTINF:-1 group-title="爱TV",爱江湖
 http://101.71.255.229:6610/zjhs/2/10114/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
 #EXTINF:-1 group-title="爱TV",爱军武
